@@ -10,5 +10,9 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 
+app.get('/', (req, res) => {
+  res.send('Бот WhatsApp успішно запущено!');
+});
+
 // Запускаємо бот
 startBot();

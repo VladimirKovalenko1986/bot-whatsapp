@@ -1,6 +1,9 @@
 const schedule = require('node-schedule');
 const qrcode = require('qrcode-terminal');
 const { Client, LocalAuth } = require('whatsapp-web.js'); // Використовуємо LocalAuth для збереження сесії
+const express = require('express');
+
+const app = express();
 
 const startBot = () => {
   const client = new Client({
@@ -10,6 +13,16 @@ const startBot = () => {
   client.on('qr', (qr) => {
     console.log('QR Code received:', qr);
     qrcode.generate(qr, { small: true }); // Генерація QR-коду для сканування, якщо сесія ще не збережена
+
+    app.get('/qr', (req, res) => {
+      qrcode.toDataURL(qr, (err, src) => {
+        if (err) {
+          res.send('Помилка при генерації QR-коду');
+        } else {
+          res.send(`<img src="${src}" alt="QR-код для WhatsApp" />`);
+        }
+      });
+    });
   });
 
   client.on('ready', () => {

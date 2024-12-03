@@ -15,4 +15,4 @@ app.get('/', (req, res) => {
 });
 
 // Запускаємо бот
-startBot();
+startBot(app);

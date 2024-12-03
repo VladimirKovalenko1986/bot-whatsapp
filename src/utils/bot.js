@@ -1,11 +1,10 @@
 const schedule = require('node-schedule');
 const qrcode = require('qrcode-terminal');
 const { Client, LocalAuth } = require('whatsapp-web.js'); // Використовуємо LocalAuth для збереження сесії
-const express = require('express');
 
-const app = express();
+let currentQrCode = null;
 
-const startBot = () => {
+const startBot = (app) => {
   const client = new Client({
     authStrategy: new LocalAuth(), // Використовуємо LocalAuth для збереження сесії
   });
@@ -14,15 +13,7 @@ const startBot = () => {
     console.log('QR Code received:', qr);
     qrcode.generate(qr, { small: true }); // Генерація QR-коду для сканування, якщо сесія ще не збережена
 
-    app.get('/qr', (req, res) => {
-      qrcode.toDataURL(qr, (err, src) => {
-        if (err) {
-          res.send('Помилка при генерації QR-коду');
-        } else {
-          res.send(`<img src="${src}" alt="QR-код для WhatsApp" />`);
-        }
-      });
-    });
+    currentQrCode = qr; // Зберігаємо отриманий QR-код
   });
 
   client.on('ready', () => {
@@ -32,7 +23,7 @@ const startBot = () => {
     const groupChatId = '120363371182644863@g.us'; // Вставте отриманий ID вашої групи
 
     // Запланувати надсилання повідомлення
-    schedule.scheduleJob('05 23 * * 1-5', () => {
+    schedule.scheduleJob('23 23 * * 1-5', () => {
       console.log('Надсилаємо повідомлення групі:', groupChatId);
       // Щодня о 22:25
       client
@@ -55,6 +46,21 @@ const startBot = () => {
   });
 
   client.initialize(); // Ініціалізація клієнта
+
+  // Створюємо маршрут для доступу до QR-коду
+  app.get('/qr', (req, res) => {
+    if (currentQrCode) {
+      qrcode.toDataURL(currentQrCode, (err, src) => {
+        if (err) {
+          res.send('Помилка при генерації QR-коду');
+        } else {
+          res.send(`<img src="${src}" alt="QR-код для WhatsApp" />`);
+        }
+      });
+    } else {
+      res.status(404).send('QR код ще не отримано');
+    }
+  });
 };
 
 module.exports = startBot;

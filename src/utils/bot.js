@@ -1,7 +1,8 @@
-const schedule = require('node-schedule');
 const qrcode = require('qrcode-terminal');
 const { Client, LocalAuth } = require('whatsapp-web.js'); // Використовуємо LocalAuth для збереження сесії
 const QRCode = require('qrcode');
+const morningMessage = require('../message/mornigMessage.js');
+const lunchMessage = require('../message/lunchMessage.js');
 
 let currentQrCode = null;
 
@@ -17,33 +18,37 @@ const startBot = (app) => {
     currentQrCode = qr; // Зберігаємо отриманий QR-код
   });
 
-  client.on('ready', () => {
-    console.log('Бот готовий!');
+  client.on('ready', async () => {
+    console.log('Bot is ready!');
+
+    // Побачити всі чати і їх імя
+    // try {
+    //   const chats = await client.getChats(); // Отримуємо всі чати
+    //   console.log('Доступні чати:');
+    //   chats.forEach((chat) => {
+    //     console.log(
+    //       `Назва: ${chat.name || chat.id.user}, ID: ${chat.id._serialized}`,
+    //     );
+    //   });
+    // } catch (error) {
+    //   console.error('Помилка при отриманні чатів:', error);
+    // }
 
     // Використовуємо отриманий ID групи
-    const groupChatId = '120363371182644863@g.us'; // Вставте отриманий ID вашої групи
+    // const groupChatId = '120363371182644863@g.us'; Чат Warrior ID
 
-    // Запланувати надсилання повідомлення
-    schedule.scheduleJob('20 10 * * 1-5', () => {
-      console.log('Надсилаємо повідомлення групі:', groupChatId);
-      // Щодня о 22:25
-      client
-        .sendMessage(groupChatId, 'Танюшка агов, на добраніч.')
-        .then(() => {
-          console.log('Повідомлення надіслано');
-        })
-        .catch((error) => {
-          console.error('Помилка при надсиланні повідомлення:', error);
-        });
-    });
+    const groupChatId = '120363132078186204@g.us';
+
+    morningMessage(client, groupChatId);
+    lunchMessage(client, groupChatId);
   });
 
   client.on('auth_failure', (error) => {
-    console.error('Помилка автентифікації:', error);
+    console.error('Error on authentication', error);
   });
 
   client.on('disconnected', (reason) => {
-    console.log('Клієнт відключений:', reason);
+    console.log('Client is disconnected::', reason);
   });
 
   client.initialize(); // Ініціалізація клієнта
@@ -53,13 +58,13 @@ const startBot = (app) => {
     if (currentQrCode) {
       QRCode.toDataURL(currentQrCode, (err, url) => {
         if (err) {
-          res.send('Помилка при генерації QR-коду');
+          res.send('Error generation QR-code');
         } else {
           res.send(`<img src="${url}" alt="QR-код для WhatsApp" />`);
         }
       });
     } else {
-      res.status(404).send('QR код ще не отримано');
+      res.status(404).send('QR code is not received');
     }
   });
 };

@@ -24,7 +24,7 @@ const startBot = (app) => {
     const groupChatId = '120363371182644863@g.us'; // Вставте отриманий ID вашої групи
 
     // Запланувати надсилання повідомлення
-    schedule.scheduleJob('32 09 * * 1-5', () => {
+    schedule.scheduleJob('20 10 * * 1-5', () => {
       console.log('Надсилаємо повідомлення групі:', groupChatId);
       // Щодня о 22:25
       client

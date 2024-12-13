@@ -12,8 +12,8 @@ const allChatsId = async (client) => {
   }
 };
 
+module.exports = allChatsId;
+
 // Використовуємо отриманий ID групи
 // const groupChatId = '120363371182644863@g.us'; Чат Warrior ID
 // const groupChatId = '120363132078186204@g.us'; Чат Автомобільна служба ID
-
-module.exports = allChatsId;

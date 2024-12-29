@@ -3,6 +3,7 @@ const QRCode = require('qrcode');
 const qrcode = require('qrcode-terminal');
 const scheduleMessages = require('../message/scheduleMessages.js');
 const loadMessageConfig = require('../message/loadMessageConfig.js');
+const processMessageQueue = require('../message/processMessageQueue');
 const express = require('express');
 const restartBot = require('./restartBot.js');
 // const messageConfig = require('../message/messageConfig.js');
@@ -25,41 +26,11 @@ const startBot = () => {
     },
   });
 
-  const processMessageQueue = async () => {
-    console.log(
-      `Processing message queue. Messages in queue: ${messageQueue.length}`,
-    );
-
-    while (messageQueue.length > 0) {
-      if (!client || !isConnected || !client.info) {
-        console.log('Client not ready. Queue processing is paused.');
-        messageQueue.unshift({ groupChatId, message }); // Повертаємо повідомлення до черги
-        return;
-      }
-
-      const { groupChatId, message } = messageQueue.shift(); // Беремо перше повідомлення з черги
-      try {
-        console.log(
-          `Attempting to send message to group ${groupChatId}: ${message}`,
-        );
-        await client.sendMessage(groupChatId, message); // Надсилаємо повідомлення
-        console.log(
-          `Message sent successfully to group ${groupChatId}: ${message}`,
-        );
-      } catch (error) {
-        console.error('Error while sending a queued message:', error);
-        messageQueue.unshift({ groupChatId, message }); // Повертаємо повідомлення до черги
-        console.log('Retrying message in 5 seconds...');
-        await new Promise((resolve) => setTimeout(resolve, 5000)); // Затримка перед повторною спробою
-        break; // Завершуємо цикл, щоб уникнути створення багаторазових спроб одночасно
-      }
-    }
-
-    console.log('Message queue processing completed.');
-  };
-
   // Обробка черги кожні 30 секунд
-  setInterval(processMessageQueue, 30000);
+  setInterval(
+    () => processMessageQueue(messageQueue, client, isConnected),
+    30000,
+  );
 
   // Подія: QR-код
   client.on('qr', (qr) => {
@@ -77,7 +48,7 @@ const startBot = () => {
     currentQrCode = null; // Очищаємо QR-код, бо він більше не потрібен
     qrGenerated = false; // Готові до повторної генерації при потребі
     isConnected = true; // Бот готовий, з'єднання встановлено
-    processMessageQueue();
+    processMessageQueue(messageQueue, client, isConnected);
     const messageConfig = loadMessageConfig();
     scheduleMessages(client, messageConfig, isConnected, messageQueue);
   });

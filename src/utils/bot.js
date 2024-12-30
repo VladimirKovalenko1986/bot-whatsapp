@@ -20,10 +20,10 @@ const startBot = () => {
   const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
+      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      headless: true,
-      timeout: 0, // Необмежений час очікування
-    },
+      headless: true, // Використовується "headless" режим (фоновий)
+  },
   });
 
   // Обробка черги кожні 30 секунд

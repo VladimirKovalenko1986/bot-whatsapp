@@ -20,10 +20,11 @@ const startBot = () => {
   const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
-      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+      executablePath:
+        'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
       args: ['--no-sandbox', '--disable-setuid-sandbox'],
       headless: true, // Використовується "headless" режим (фоновий)
-  },
+    },
   });
 
   // Обробка черги кожні 30 секунд
@@ -43,7 +44,7 @@ const startBot = () => {
   });
 
   // Подія: Готовність бота
-  client.on('ready', () => {
+  client.on('ready', async () => {
     console.log('Bot is ready!');
     currentQrCode = null; // Очищаємо QR-код, бо він більше не потрібен
     qrGenerated = false; // Готові до повторної генерації при потребі
@@ -51,6 +52,7 @@ const startBot = () => {
     processMessageQueue(messageQueue, client, isConnected);
     const messageConfig = loadMessageConfig();
     scheduleMessages(client, messageConfig, isConnected, messageQueue);
+    // await allChatsId(client);
   });
 
   // Подія: Помилка авторизації

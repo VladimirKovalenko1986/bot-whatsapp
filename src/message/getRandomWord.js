@@ -1,4 +1,4 @@
-const words = require('../../english-to-ukrainian.json');
+const words = require('../../english-ukrainian.json');
 
 const getRandomWord = () => {
   const randomIndex = Math.floor(Math.random() * words.length);

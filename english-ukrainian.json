@@ -1,0 +1,3098 @@
+[
+  {
+    "english": "world",
+    "ukrainian": "світ"
+  },
+  {
+    "english": "love",
+    "ukrainian": "любов"
+  },
+  {
+    "english": "friend",
+    "ukrainian": "друг"
+  },
+  {
+    "english": "happy birthday",
+    "ukrainian": "з днем народження"
+  },
+  {
+    "english": "good morning",
+    "ukrainian": "доброго ранку"
+  },
+  {
+    "english": "apple",
+    "ukrainian": "яблуко"
+  },
+  {
+    "english": "water",
+    "ukrainian": "вода"
+  },
+  {
+    "english": "family",
+    "ukrainian": "сім'я"
+  },
+  {
+    "english": "school",
+    "ukrainian": "школа"
+  },
+  {
+    "english": "home",
+    "ukrainian": "дім"
+  },
+  {
+    "english": "sunrise over the mountains",
+    "ukrainian": "сонячний схід над горами"
+  },
+  {
+    "english": "peaceful forest",
+    "ukrainian": "спокійний ліс"
+  },
+  {
+    "english": "starry night sky",
+    "ukrainian": "зіркове ночне небо"
+  },
+  {
+    "english": "breeze by the sea",
+    "ukrainian": "вітерець над морем"
+  },
+  {
+    "english": "golden autumn leaves",
+    "ukrainian": "золотий осінній листопад"
+  },
+  {
+    "english": "calm river flow",
+    "ukrainian": "спокійний плин річки"
+  },
+  {
+    "english": "bird song in spring",
+    "ukrainian": "пташиний спів на весні"
+  },
+  {
+    "english": "freshly baked bread",
+    "ukrainian": "свіжоспечений хліб"
+  },
+  {
+    "english": "city lights at night",
+    "ukrainian": "вогні міста вночі"
+  },
+  {
+    "english": "first snowfall",
+    "ukrainian": "перший сніг"
+  },
+  {
+    "english": "morning dew on grass",
+    "ukrainian": "ранкова роса на траві"
+  },
+  {
+    "english": "whispering wind in trees",
+    "ukrainian": "шепіт вітру у деревах"
+  },
+  {
+    "english": "laughter of children",
+    "ukrainian": "сміх дітей"
+  },
+  {
+    "english": "warm fireplace",
+    "ukrainian": "теплий камін"
+  },
+  {
+    "english": "soft autumn rain",
+    "ukrainian": "м'який осінній дощ"
+  },
+  {
+    "english": "melody of waves",
+    "ukrainian": "мелодія хвиль"
+  },
+  {
+    "english": "distant mountain peaks",
+    "ukrainian": "далекі гірські вершини"
+  },
+  {
+    "english": "sunset on the horizon",
+    "ukrainian": "захід сонця на горизонті"
+  },
+  {
+    "english": "bright summer day",
+    "ukrainian": "яскравий літній день"
+  },
+  {
+    "english": "crunch of autumn leaves",
+    "ukrainian": "шурхіт осіннього листя"
+  },
+  {
+    "english": "gentle river breeze",
+    "ukrainian": "ніжний вітерець річки"
+  },
+  {
+    "english": "quiet village road",
+    "ukrainian": "тиха сільська дорога"
+  },
+  {
+    "english": "early morning fog",
+    "ukrainian": "ранковий туман"
+  },
+  {
+    "english": "sparkling lake water",
+    "ukrainian": "іскриста вода озера"
+  },
+  {
+    "english": "colorful flower field",
+    "ukrainian": "кольорове поле квітів"
+  },
+  {
+    "english": "sweet summer fruits",
+    "ukrainian": "солодкі літні фрукти"
+  },
+  {
+    "english": "winter's frosty breath",
+    "ukrainian": "зимове морозне дихання"
+  },
+  {
+    "english": "golden beach sands",
+    "ukrainian": "золотий пляжний пісок"
+  },
+  {
+    "english": "ancient castle walls",
+    "ukrainian": "стародавні стіни замку"
+  },
+  {
+    "english": "open blue sky",
+    "ukrainian": "відкрите блакитне небо"
+  },
+  {
+    "english": "vivid rainbow colors",
+    "ukrainian": "яскраві кольори веселки"
+  },
+  {
+    "english": "echo of the canyon",
+    "ukrainian": "відлуння каньйону"
+  },
+  {
+    "english": "bright city sunrise",
+    "ukrainian": "яскравий схід сонця в місті"
+  },
+  {
+    "english": "gentle snowfall",
+    "ukrainian": "ніжний снігопад"
+  },
+  {
+    "english": "aroma of fresh coffee",
+    "ukrainian": "аромат свіжої кави"
+  },
+  {
+    "english": "path through the woods",
+    "ukrainian": "стежка через ліс"
+  },
+  {
+    "english": "evening by the lake",
+    "ukrainian": "вечір біля озера"
+  },
+  {
+    "english": "harvest moon",
+    "ukrainian": "врожайний місяць"
+  },
+  {
+    "english": "calm ocean waves",
+    "ukrainian": "спокійні океанські хвилі"
+  },
+  {
+    "english": "dancing flames",
+    "ukrainian": "танцюючі полум'я"
+  },
+  {
+    "english": "whispering meadow grass",
+    "ukrainian": "шепіт луки"
+  },
+  {
+    "english": "forest path at dusk",
+    "ukrainian": "лісова стежка у сутінках"
+  },
+  {
+    "english": "crystal clear spring",
+    "ukrainian": "кришталево чисте джерело"
+  },
+  {
+    "english": "golden hour sky",
+    "ukrainian": "золоте небо години"
+  },
+  {
+    "english": "mystic forest fog",
+    "ukrainian": "містичний лісовий туман"
+  },
+  {
+    "english": "winding mountain trail",
+    "ukrainian": "звивиста гірська стежка"
+  },
+  {
+    "english": "soft evening glow",
+    "ukrainian": "м'яке вечірнє сяйво"
+  },
+  {
+    "english": "roses in full bloom",
+    "ukrainian": "троянди у повному цвітінні"
+  },
+  {
+    "english": "tranquil river bank",
+    "ukrainian": "спокійний берег річки"
+  },
+  {
+    "english": "golden wheat fields",
+    "ukrainian": "золоті пшеничні поля"
+  },
+  {
+    "english": "ancient oak tree",
+    "ukrainian": "стародавній дуб"
+  },
+  {
+    "english": "hidden forest path",
+    "ukrainian": "прихована лісова стежка"
+  },
+  {
+    "english": "quiet mountain lake",
+    "ukrainian": "тихе гірське озеро"
+  },
+  {
+    "english": "golden sunset hues",
+    "ukrainian": "золоті відтінки заходу"
+  },
+  {
+    "english": "whisper of the ocean",
+    "ukrainian": "шепіт океану"
+  },
+  {
+    "english": "spring blossom aroma",
+    "ukrainian": "аромат весняного цвіту"
+  },
+  {
+    "english": "glistening morning frost",
+    "ukrainian": "іскристий ранковий іній"
+  },
+  {
+    "english": "shadow of the castle",
+    "ukrainian": "тінь замку"
+  },
+  {
+    "english": "roaring waterfall",
+    "ukrainian": "ревучий водоспад"
+  },
+  {
+    "english": "serene meadow",
+    "ukrainian": "спокійна лука"
+  },
+  {
+    "english": "distant rolling hills",
+    "ukrainian": "далекі пагорби"
+  },
+  {
+    "english": "twinkling city lights",
+    "ukrainian": "мерехтливі вогні міста"
+  },
+  {
+    "english": "majestic snowy peak",
+    "ukrainian": "велична снігова вершина"
+  },
+  {
+    "english": "hidden forest glade",
+    "ukrainian": "прихована лісова галявина"
+  },
+  {
+    "english": "silent winter forest",
+    "ukrainian": "тихий зимовий ліс"
+  },
+  {
+    "english": "soft sandy dunes",
+    "ukrainian": "м'які піщані дюни"
+  },
+  {
+    "english": "endless starry sky",
+    "ukrainian": "нескінченне зоряне небо"
+  },
+  {
+    "english": "brightly blooming orchard",
+    "ukrainian": "яскраво квітучий сад"
+  },
+  {
+    "english": "calm summer breeze",
+    "ukrainian": "спокійний літній вітерець"
+  },
+  {
+    "english": "tranquil village evening",
+    "ukrainian": "тихий сільський вечір"
+  },
+  {
+    "english": "rustling autumn woods",
+    "ukrainian": "шелест осіннього лісу"
+  },
+  {
+    "english": "golden sunrise rays",
+    "ukrainian": "золоті промені сходу"
+  },
+  {
+    "english": "whispering brook",
+    "ukrainian": "шепіт струмка"
+  },
+  {
+    "english": "crisp mountain air",
+    "ukrainian": "свіже гірське повітря"
+  },
+  {
+    "english": "peaceful riverside",
+    "ukrainian": "спокійний берег річки"
+  },
+  {
+    "english": "soft forest floor",
+    "ukrainian": "м'який лісовий ґрунт"
+  },
+  {
+    "english": "gentle morning light",
+    "ukrainian": "ніжне ранкове світло"
+  },
+  {
+    "english": "swaying wheat field",
+    "ukrainian": "колихаюче пшеничне поле"
+  },
+  {
+    "english": "hidden woodland stream",
+    "ukrainian": "прихований лісовий потік"
+  },
+  {
+    "english": "sparkling snowflakes",
+    "ukrainian": "іскристі сніжинки"
+  },
+  {
+    "english": "warm summer twilight",
+    "ukrainian": "теплий літній сутінок"
+  },
+  {
+    "english": "shimmering ocean horizon",
+    "ukrainian": "мерехтливий океанський горизонт"
+  },
+  {
+    "english": "ancient stone bridge",
+    "ukrainian": "стародавній кам'яний міст"
+  },
+  {
+    "english": "lush green valley",
+    "ukrainian": "пишна зелена долина"
+  },
+  {
+    "english": "sparkling cave crystals",
+    "ukrainian": "іскристі кришталеві печери"
+  },
+  {
+    "english": "soft glow of lanterns",
+    "ukrainian": "м'яке світло ліхтарів"
+  },
+  {
+    "english": "gentle forest rain",
+    "ukrainian": "ніжний лісовий дощ"
+  },
+  {
+    "english": "majestic river canyon",
+    "ukrainian": "величний річковий каньйон"
+  },
+  {
+    "english": "bright spring meadow",
+    "ukrainian": "яскрава весняна лука"
+  },
+  {
+    "english": "shimmering waterfall mist",
+    "ukrainian": "мерехтливий туман водоспаду"
+  },
+  {
+    "english": "twinkling winter lights",
+    "ukrainian": "мерехтливі зимові вогники"
+  },
+  {
+    "english": "soft ripples on water",
+    "ukrainian": "м'які хвилі на воді"
+  },
+  {
+    "english": "hidden garden arch",
+    "ukrainian": "прихована арка в саду"
+  },
+  {
+    "english": "serene morning calm",
+    "ukrainian": "спокійний ранок"
+  },
+  {
+    "english": "golden prairie grasses",
+    "ukrainian": "золоті степові трави"
+  },
+  {
+    "english": "peaceful forest clearing",
+    "ukrainian": "спокійна лісова галявина"
+  },
+  {
+    "english": "crimson autumn trees",
+    "ukrainian": "червоні осінні дерева"
+  },
+  {
+    "english": "sparkling starlit sky",
+    "ukrainian": "іскристе зоряне небо"
+  },
+  {
+    "english": "silent snowy night",
+    "ukrainian": "тиха сніжна ніч"
+  },
+  {
+    "english": "endless ocean waves",
+    "ukrainian": "нескінченні хвилі океану"
+  },
+  {
+    "english": "soft morning whispers",
+    "ukrainian": "ніжні ранкові шепоти"
+  },
+  {
+    "english": "frosty forest glade",
+    "ukrainian": "морозна лісова галявина"
+  },
+  {
+    "english": "warm cottage hearth",
+    "ukrainian": "тепле вогнище у котеджі"
+  },
+  {
+    "english": "rolling meadow hills",
+    "ukrainian": "пагорби лук"
+  },
+  {
+    "english": "soft wind through reeds",
+    "ukrainian": "м'який вітер через очерет"
+  },
+  {
+    "english": "crisp forest dawn",
+    "ukrainian": "свіжий лісовий світанок"
+  },
+  {
+    "english": "hidden mountain cave",
+    "ukrainian": "прихована гірська печера"
+  },
+  {
+    "english": "golden morning glow",
+    "ukrainian": "золотий ранковий блиск"
+  },
+  {
+    "english": "melody of raindrops",
+    "ukrainian": "мелодія крапель дощу"
+  },
+  {
+    "english": "whispering desert wind",
+    "ukrainian": "шепіт пустельного вітру"
+  },
+  {
+    "english": "ancient oak tree",
+    "ukrainian": "стародавній дуб"
+  },
+  {
+    "english": "soft sand beneath feet",
+    "ukrainian": "м'який пісок під ногами"
+  },
+  {
+    "english": "crystal snowflakes",
+    "ukrainian": "кришталеві сніжинки"
+  },
+  {
+    "english": "endless blue horizon",
+    "ukrainian": "нескінченний блакитний горизонт"
+  },
+  {
+    "english": "colorful autumn forest",
+    "ukrainian": "кольоровий осінній ліс"
+  },
+  {
+    "english": "peaceful village morning",
+    "ukrainian": "спокійний сільський ранок"
+  },
+  {
+    "english": "gentle mountain brook",
+    "ukrainian": "ніжний гірський струмок"
+  },
+  {
+    "english": "glowing lantern in fog",
+    "ukrainian": "сяюча лампа у тумані"
+  },
+  {
+    "english": "wildflower meadow",
+    "ukrainian": "луг з польовими квітами"
+  },
+  {
+    "english": "quiet starry evening",
+    "ukrainian": "тихий зоряний вечір"
+  },
+  {
+    "english": "warm autumn afternoon",
+    "ukrainian": "теплий осінній полудень"
+  },
+  {
+    "english": "hidden forest spring",
+    "ukrainian": "приховане джерело в лісі"
+  },
+  {
+    "english": "sparkling ice crystals",
+    "ukrainian": "іскристі кристали льоду"
+  },
+  {
+    "english": "sunlit garden path",
+    "ukrainian": "освітлена сонцем садова доріжка"
+  },
+  {
+    "english": "majestic ocean waves",
+    "ukrainian": "величні океанські хвилі"
+  },
+  {
+    "english": "snow-covered rooftops",
+    "ukrainian": "засніжені дахи"
+  },
+  {
+    "english": "bright summer meadow",
+    "ukrainian": "яскравий літній луг"
+  },
+  {
+    "english": "golden sunset reflections",
+    "ukrainian": "золоті відображення заходу сонця"
+  },
+  {
+    "english": "shimmering water lilies",
+    "ukrainian": "сяючі водяні лілії"
+  },
+  {
+    "english": "hidden garden bench",
+    "ukrainian": "прихована лавка в саду"
+  },
+  {
+    "english": "morning light on hills",
+    "ukrainian": "ранкове світло на пагорбах"
+  },
+  {
+    "english": "ancient stone bridge",
+    "ukrainian": "стародавній кам'яний міст"
+  },
+  {
+    "english": "lush green valley",
+    "ukrainian": "розкішна зелена долина"
+  },
+  {
+    "english": "sparkling mountain stream",
+    "ukrainian": "іскристий гірський струмок"
+  },
+  {
+    "english": "hidden forest trail",
+    "ukrainian": "прихована лісова стежка"
+  },
+  {
+    "english": "bluebird in flight",
+    "ukrainian": "синій птах у польоті"
+  },
+  {
+    "english": "morning coffee aroma",
+    "ukrainian": "аромат ранкової кави"
+  },
+  {
+    "english": "sun-drenched vineyard",
+    "ukrainian": "сонячний виноградник"
+  },
+  {
+    "english": "calm bay waters",
+    "ukrainian": "спокійні води затоки"
+  },
+  {
+    "english": "rustling cornfields",
+    "ukrainian": "шурхіт кукурудзяних полів"
+  },
+  {
+    "english": "golden desert sands",
+    "ukrainian": "золоті пустельні піски"
+  },
+  {
+    "english": "forest canopy at dusk",
+    "ukrainian": "лісовий полог у сутінках"
+  },
+  {
+    "english": "waves crashing on rocks",
+    "ukrainian": "хвилі, що розбиваються об скелі"
+  },
+  {
+    "english": "morning mist over lake",
+    "ukrainian": "ранковий туман над озером"
+  },
+  {
+    "english": "hidden waterfall",
+    "ukrainian": "прихований водоспад"
+  },
+  {
+    "english": "wild roses in bloom",
+    "ukrainian": "дикі троянди у цвіту"
+  },
+  {
+    "english": "gentle hillside breeze",
+    "ukrainian": "ніжний вітер на схилі пагорба"
+  },
+  {
+    "english": "golden rays of dawn",
+    "ukrainian": "золоті промені світанку"
+  },
+  {
+    "english": "vibrant city market",
+    "ukrainian": "яскравий міський ринок"
+  },
+  {
+    "english": "ancient forest glade",
+    "ukrainian": "стародавня лісова галявина"
+  },
+  {
+    "english": "crystal clear waterfall",
+    "ukrainian": "кришталево чистий водоспад"
+  },
+  {
+    "english": "quiet beach at sunrise",
+    "ukrainian": "тихий пляж на світанку"
+  },
+  {
+    "english": "rolling countryside hills",
+    "ukrainian": "хвилясті сільські пагорби"
+  },
+  {
+    "english": "hidden garden nook",
+    "ukrainian": "прихований куточок саду"
+  },
+  {
+    "english": "evening glow over river",
+    "ukrainian": "вечірнє сяйво над річкою"
+  },
+  {
+    "english": "colorful kite in sky",
+    "ukrainian": "кольоровий змій у небі"
+  },
+  {
+    "english": "sparkling dewdrops",
+    "ukrainian": "сяючі краплі роси"
+  },
+  {
+    "english": "tranquil forest pool",
+    "ukrainian": "спокійний лісовий ставок"
+  },
+  {
+    "english": "golden light through trees",
+    "ukrainian": "золотисте світло крізь дерева"
+  },
+  {
+    "english": "autumn breeze in park",
+    "ukrainian": "осінній вітерець у парку"
+  },
+  {
+    "english": "soft glow of candles",
+    "ukrainian": "м'яке сяйво свічок"
+  },
+  {
+    "english": "sunset over calm sea",
+    "ukrainian": "захід сонця над спокійним морем"
+  },
+  {
+    "english": "golden harvest fields",
+    "ukrainian": "золоті поля врожаю"
+  },
+  {
+    "english": "misty mountain ridge",
+    "ukrainian": "туманний гірський хребет"
+  },
+  {
+    "english": "sparkling ocean horizon",
+    "ukrainian": "іскристий океанський горизонт"
+  },
+  {
+    "english": "hidden valley stream",
+    "ukrainian": "прихований потік у долині"
+  },
+  {
+    "english": "warm summer breeze",
+    "ukrainian": "теплий літній вітерець"
+  },
+  {
+    "english": "twinkling night stars",
+    "ukrainian": "мерехтливі нічні зірки"
+  },
+  {
+    "english": "calm harbor waters",
+    "ukrainian": "спокійні води гавані"
+  },
+  {
+    "english": "ancient mountain path",
+    "ukrainian": "стародавня гірська стежка"
+  },
+  {
+    "english": "wildflower-covered hills",
+    "ukrainian": "пагорби, вкриті польовими квітами"
+  },
+  {
+    "english": "silent winter woods",
+    "ukrainian": "тихий зимовий ліс"
+  },
+  {
+    "english": "golden sunlight on grass",
+    "ukrainian": "золоті промені на траві"
+  },
+  {
+    "english": "soft clouds at dawn",
+    "ukrainian": "м'які хмари на світанку"
+  },
+  {
+    "english": "hidden woodland glade",
+    "ukrainian": "прихована лісова галявина"
+  },
+  {
+    "english": "sunlit riverbank",
+    "ukrainian": "освітлений сонцем берег річки"
+  },
+  {
+    "english": "quiet garden in spring",
+    "ukrainian": "тихий сад навесні"
+  },
+  {
+    "english": "crisp mountain air",
+    "ukrainian": "свіже гірське повітря"
+  },
+  {
+    "english": "golden leaves in sunlight",
+    "ukrainian": "золоті листя на сонці"
+  },
+  {
+    "english": "crystal-clear ocean waves",
+    "ukrainian": "кришталево чисті океанські хвилі"
+  },
+  {
+    "english": "ancient stone staircase",
+    "ukrainian": "стародавні кам'яні сходи"
+  },
+  {
+    "english": "peaceful mountain lake",
+    "ukrainian": "спокійне гірське озеро"
+  },
+  {
+    "english": "soft chirping of birds",
+    "ukrainian": "ніжний щебет птахів"
+  },
+  {
+    "english": "warm rays of sunset",
+    "ukrainian": "теплі промені заходу сонця"
+  },
+  {
+    "english": "hidden beach cove",
+    "ukrainian": "прихована пляжна бухта"
+  },
+  {
+    "english": "blooming spring orchard",
+    "ukrainian": "цвітучий весняний сад"
+  },
+  {
+    "english": "gentle ripples on water",
+    "ukrainian": "ніжні хвилі на воді"
+  },
+  {
+    "english": "sparkling dew in sunlight",
+    "ukrainian": "іскриста роса на сонці"
+  },
+  {
+    "english": "rolling waves of grass",
+    "ukrainian": "хвиляста трава на вітрі"
+  },
+  {
+    "english": "ancient wooden bridge",
+    "ukrainian": "стародавній дерев'яний міст"
+  },
+  {
+    "english": "golden sunrise reflections",
+    "ukrainian": "золоті відображення світанку"
+  },
+  {
+    "english": "quiet meadow at dusk",
+    "ukrainian": "тиха лука у сутінках"
+  },
+  {
+    "english": "majestic snowy peaks",
+    "ukrainian": "величні сніжні вершини"
+  },
+  {
+    "english": "soft carpet of moss",
+    "ukrainian": "м'який килим із моху"
+  },
+  {
+    "english": "ancient forest shadows",
+    "ukrainian": "тіні стародавнього лісу"
+  },
+  {
+    "english": "shimmering moonlight on water",
+    "ukrainian": "сяючий місячний світло на воді"
+  },
+  {
+    "english": "lush mountain meadow",
+    "ukrainian": "пишний гірський луг"
+  },
+  {
+    "english": "sparkling icicles",
+    "ukrainian": "іскристі бурульки"
+  },
+  {
+    "english": "golden fields at sunset",
+    "ukrainian": "золоті поля на заході сонця"
+  },
+  {
+    "english": "calm waves in the bay",
+    "ukrainian": "спокійні хвилі в затоці"
+  },
+  {
+    "english": "rustling leaves in autumn",
+    "ukrainian": "шурхіт листя восени"
+  },
+  {
+    "english": "hidden mountain meadow",
+    "ukrainian": "прихований гірський луг"
+  },
+  {
+    "english": "quiet evening by the fire",
+    "ukrainian": "тихий вечір біля вогню"
+  },
+  {
+    "english": "early morning frost",
+    "ukrainian": "ранковий іній"
+  },
+  {
+    "english": "sunlight through clouds",
+    "ukrainian": "сонячне світло крізь хмари"
+  },
+  {
+    "english": "ancient temple ruins",
+    "ukrainian": "руїни стародавнього храму"
+  },
+  {
+    "english": "gentle mist over hills",
+    "ukrainian": "ніжний туман над пагорбами"
+  },
+  {
+    "english": "rolling hills under stars",
+    "ukrainian": "хвилясті пагорби під зірками"
+  },
+  {
+    "english": "bubbling forest brook",
+    "ukrainian": "булькаючий лісовий струмок"
+  },
+  {
+    "english": "glimmering river stones",
+    "ukrainian": "сяючі річкові камені"
+  },
+  {
+    "english": "quiet street at dawn",
+    "ukrainian": "тиха вулиця на світанку"
+  },
+  {
+    "english": "warm light of lanterns",
+    "ukrainian": "тепле світло ліхтарів"
+  },
+  {
+    "english": "hidden bay under cliffs",
+    "ukrainian": "прихована затока під скелями"
+  },
+  {
+    "english": "soft glow of twilight",
+    "ukrainian": "м'яке сяйво сутінків"
+  },
+  {
+    "english": "gentle rain in spring",
+    "ukrainian": "ніжний дощ навесні"
+  },
+  {
+    "english": "shimmering city skyline",
+    "ukrainian": "сяючий міський горизонт"
+  },
+  {
+    "english": "snowy meadow in winter",
+    "ukrainian": "засніжена лука взимку"
+  },
+  {
+    "english": "golden rays on water",
+    "ukrainian": "золоті промені на воді"
+  },
+  {
+    "english": "hidden pathway through forest",
+    "ukrainian": "прихована стежка крізь ліс"
+  },
+  {
+    "english": "wildflowers in early spring",
+    "ukrainian": "польові квіти ранньою весною"
+  },
+  {
+    "english": "sparkling frost on grass",
+    "ukrainian": "іскристий іній на траві"
+  },
+  {
+    "english": "tranquil autumn park",
+    "ukrainian": "спокійний осінній парк"
+  },
+  {
+    "english": "moonlit ocean waves",
+    "ukrainian": "місячне світло на хвилях океану"
+  },
+  {
+    "english": "quiet field at sunset",
+    "ukrainian": "тихе поле на заході сонця"
+  },
+  {
+    "english": "adventure",
+    "ukrainian": "пригоди"
+  },
+  {
+    "english": "discovery",
+    "ukrainian": "відкриття"
+  },
+  {
+    "english": "imagination",
+    "ukrainian": "уява"
+  },
+  {
+    "english": "courage",
+    "ukrainian": "сміливість"
+  },
+  {
+    "english": "journey",
+    "ukrainian": "подорож"
+  },
+  {
+    "english": "knowledge",
+    "ukrainian": "знання"
+  },
+  {
+    "english": "inspiration",
+    "ukrainian": "натхнення"
+  },
+  {
+    "english": "challenge",
+    "ukrainian": "виклик"
+  },
+  {
+    "english": "freedom",
+    "ukrainian": "свобода"
+  },
+  {
+    "english": "happiness",
+    "ukrainian": "щастя"
+  },
+  {
+    "english": "loyalty",
+    "ukrainian": "вірність"
+  },
+  {
+    "english": "optimism",
+    "ukrainian": "оптимізм"
+  },
+  {
+    "english": "success",
+    "ukrainian": "успіх"
+  },
+  {
+    "english": "determination",
+    "ukrainian": "рішучість"
+  },
+  {
+    "english": "growth",
+    "ukrainian": "ріст"
+  },
+  {
+    "english": "patience",
+    "ukrainian": "терпіння"
+  },
+  {
+    "english": "faith",
+    "ukrainian": "віра"
+  },
+  {
+    "english": "trust",
+    "ukrainian": "довіра"
+  },
+  {
+    "english": "gratitude",
+    "ukrainian": "вдячність"
+  },
+  {
+    "english": "wisdom",
+    "ukrainian": "мудрість"
+  },
+  {
+    "english": "curiosity",
+    "ukrainian": "цікавість"
+  },
+  {
+    "english": "bravery",
+    "ukrainian": "хоробрість"
+  },
+  {
+    "english": "resilience",
+    "ukrainian": "стійкість"
+  },
+  {
+    "english": "ambition",
+    "ukrainian": "амбіції"
+  },
+  {
+    "english": "creativity",
+    "ukrainian": "творчість"
+  },
+  {
+    "english": "discipline",
+    "ukrainian": "дисципліна"
+  },
+  {
+    "english": "passion",
+    "ukrainian": "пристрасть"
+  },
+  {
+    "english": "advice",
+    "ukrainian": "порада"
+  },
+  {
+    "english": "leadership",
+    "ukrainian": "лідерство"
+  },
+  {
+    "english": "teamwork",
+    "ukrainian": "командна робота"
+  },
+  {
+    "english": "confidence",
+    "ukrainian": "впевненість"
+  },
+  {
+    "english": "enthusiasm",
+    "ukrainian": "ентузіазм"
+  },
+  {
+    "english": "friendship",
+    "ukrainian": "дружба"
+  },
+  {
+    "english": "generosity",
+    "ukrainian": "щедрість"
+  },
+  {
+    "english": "honesty",
+    "ukrainian": "чесність"
+  },
+  {
+    "english": "integrity",
+    "ukrainian": "цілісність"
+  },
+  {
+    "english": "justice",
+    "ukrainian": "справедливість"
+  },
+  {
+    "english": "kindness",
+    "ukrainian": "доброта"
+  },
+  {
+    "english": "peace",
+    "ukrainian": "мир"
+  },
+  {
+    "english": "strength",
+    "ukrainian": "сила"
+  },
+  {
+    "english": "balance",
+    "ukrainian": "баланс"
+  },
+  {
+    "english": "focus",
+    "ukrainian": "фокус"
+  },
+  {
+    "english": "health",
+    "ukrainian": "здоров'я"
+  },
+  {
+    "english": "energy",
+    "ukrainian": "енергія"
+  },
+  {
+    "english": "fitness",
+    "ukrainian": "фітнес"
+  },
+  {
+    "english": "nutrition",
+    "ukrainian": "харчування"
+  },
+  {
+    "english": "hydration",
+    "ukrainian": "гідратація"
+  },
+  {
+    "english": "exercise",
+    "ukrainian": "вправи"
+  },
+  {
+    "english": "breathing",
+    "ukrainian": "дихання"
+  },
+  {
+    "english": "relaxation",
+    "ukrainian": "розслаблення"
+  },
+  {
+    "english": "meditation",
+    "ukrainian": "медитація"
+  },
+  {
+    "english": "sleep",
+    "ukrainian": "сон"
+  },
+  {
+    "english": "recovery",
+    "ukrainian": "відновлення"
+  },
+  {
+    "english": "harmony",
+    "ukrainian": "гармонія"
+  },
+  {
+    "english": "clarity",
+    "ukrainian": "ясність"
+  },
+  {
+    "english": "vision",
+    "ukrainian": "бачення"
+  },
+  {
+    "english": "focus",
+    "ukrainian": "зосередженість"
+  },
+  {
+    "english": "mindset",
+    "ukrainian": "світогляд"
+  },
+  {
+    "english": "self-esteem",
+    "ukrainian": "самооцінка"
+  },
+  {
+    "english": "positivity",
+    "ukrainian": "позитивність"
+  },
+  {
+    "english": "self-discipline",
+    "ukrainian": "самодисципліна"
+  },
+  {
+    "english": "mindfulness",
+    "ukrainian": "усвідомленість"
+  },
+  {
+    "english": "adventure",
+    "ukrainian": "пригода"
+  },
+  {
+    "english": "memory",
+    "ukrainian": "спогад"
+  },
+  {
+    "english": "ocean",
+    "ukrainian": "океан"
+  },
+  {
+    "english": "mountain",
+    "ukrainian": "гора"
+  },
+  {
+    "english": "forest",
+    "ukrainian": "ліс"
+  },
+  {
+    "english": "valley",
+    "ukrainian": "долина"
+  },
+  {
+    "english": "waterfall",
+    "ukrainian": "водоспад"
+  },
+  {
+    "english": "desert",
+    "ukrainian": "пустеля"
+  },
+  {
+    "english": "island",
+    "ukrainian": "острів"
+  },
+  {
+    "english": "bridge",
+    "ukrainian": "міст"
+  },
+  {
+    "english": "landscape",
+    "ukrainian": "пейзаж"
+  },
+  {
+    "english": "countryside",
+    "ukrainian": "сільська місцевість"
+  },
+  {
+    "english": "lighthouse",
+    "ukrainian": "маяк"
+  },
+  {
+    "english": "harbor",
+    "ukrainian": "гавань"
+  },
+  {
+    "english": "canyon",
+    "ukrainian": "каньйон"
+  },
+  {
+    "english": "plateau",
+    "ukrainian": "плато"
+  },
+  {
+    "english": "cave",
+    "ukrainian": "печера"
+  },
+  {
+    "english": "volcano",
+    "ukrainian": "вулкан"
+  },
+  {
+    "english": "savanna",
+    "ukrainian": "савана"
+  },
+  {
+    "english": "prairie",
+    "ukrainian": "степ"
+  },
+  {
+    "english": "meadow",
+    "ukrainian": "луг"
+  },
+  {
+    "english": "creek",
+    "ukrainian": "струмок"
+  },
+  {
+    "english": "pond",
+    "ukrainian": "ставок"
+  },
+  {
+    "english": "bay",
+    "ukrainian": "затока"
+  },
+  {
+    "english": "cliff",
+    "ukrainian": "скеля"
+  },
+  {
+    "english": "peak",
+    "ukrainian": "вершина"
+  },
+  {
+    "english": "summit",
+    "ukrainian": "пік"
+  },
+  {
+    "english": "coast",
+    "ukrainian": "узбережжя"
+  },
+  {
+    "english": "reef",
+    "ukrainian": "риф"
+  },
+  {
+    "english": "horizon",
+    "ukrainian": "горизонт"
+  },
+  {
+    "english": "shore",
+    "ukrainian": "берег"
+  },
+  {
+    "english": "tide",
+    "ukrainian": "приплив"
+  },
+  {
+    "english": "wave",
+    "ukrainian": "хвиля"
+  },
+  {
+    "english": "whirlpool",
+    "ukrainian": "вир"
+  },
+  {
+    "english": "gulf",
+    "ukrainian": "затока"
+  },
+  {
+    "english": "lagoon",
+    "ukrainian": "лагуна"
+  },
+  {
+    "english": "estuary",
+    "ukrainian": "естуарій"
+  },
+  {
+    "english": "peninsula",
+    "ukrainian": "півострів"
+  },
+  {
+    "english": "cape",
+    "ukrainian": "мис"
+  },
+  {
+    "english": "ridge",
+    "ukrainian": "гребінь"
+  },
+  {
+    "english": "glacier",
+    "ukrainian": "льодовик"
+  },
+  {
+    "english": "frost",
+    "ukrainian": "мороз"
+  },
+  {
+    "english": "hail",
+    "ukrainian": "град"
+  },
+  {
+    "english": "blizzard",
+    "ukrainian": "завірюха"
+  },
+  {
+    "english": "thunderstorm",
+    "ukrainian": "гроза"
+  },
+  {
+    "english": "lightning",
+    "ukrainian": "блискавка"
+  },
+  {
+    "english": "rainbow",
+    "ukrainian": "веселка"
+  },
+  {
+    "english": "sunbeam",
+    "ukrainian": "сонячний промінь"
+  },
+  {
+    "english": "moonlight",
+    "ukrainian": "місячне світло"
+  },
+  {
+    "english": "aurora",
+    "ukrainian": "полярне сяйво"
+  },
+  {
+    "english": "cloud",
+    "ukrainian": "хмара"
+  },
+  {
+    "english": "fog",
+    "ukrainian": "туман"
+  },
+  {
+    "english": "mist",
+    "ukrainian": "імла"
+  },
+  {
+    "english": "breeze",
+    "ukrainian": "бриз"
+  },
+  {
+    "english": "gust",
+    "ukrainian": "порив"
+  },
+  {
+    "english": "hurricane",
+    "ukrainian": "ураган"
+  },
+  {
+    "english": "storm",
+    "ukrainian": "буря"
+  },
+  {
+    "english": "cyclone",
+    "ukrainian": "циклон"
+  },
+  {
+    "english": "tornado",
+    "ukrainian": "торнадо"
+  },
+  {
+    "english": "drizzle",
+    "ukrainian": "дрібний дощ"
+  },
+  {
+    "english": "garden",
+    "ukrainian": "сад"
+  },
+  {
+    "english": "library",
+    "ukrainian": "бібліотека"
+  },
+  {
+    "english": "mirror",
+    "ukrainian": "дзеркало"
+  },
+  {
+    "english": "curtain",
+    "ukrainian": "штора"
+  },
+  {
+    "english": "balcony",
+    "ukrainian": "балкон"
+  },
+  {
+    "english": "staircase",
+    "ukrainian": "сходи"
+  },
+  {
+    "english": "roof",
+    "ukrainian": "дах"
+  },
+  {
+    "english": "chimney",
+    "ukrainian": "димар"
+  },
+  {
+    "english": "basement",
+    "ukrainian": "підвал"
+  },
+  {
+    "english": "attic",
+    "ukrainian": "горище"
+  },
+  {
+    "english": "fence",
+    "ukrainian": "паркан"
+  },
+  {
+    "english": "gate",
+    "ukrainian": "ворота"
+  },
+  {
+    "english": "porch",
+    "ukrainian": "ґанок"
+  },
+  {
+    "english": "kitchen",
+    "ukrainian": "кухня"
+  },
+  {
+    "english": "bathroom",
+    "ukrainian": "ванна кімната"
+  },
+  {
+    "english": "living room",
+    "ukrainian": "вітальня"
+  },
+  {
+    "english": "bedroom",
+    "ukrainian": "спальня"
+  },
+  {
+    "english": "dining room",
+    "ukrainian": "їдальня"
+  },
+  {
+    "english": "hallway",
+    "ukrainian": "коридор"
+  },
+  {
+    "english": "ceiling",
+    "ukrainian": "стеля"
+  },
+  {
+    "english": "floor",
+    "ukrainian": "підлога"
+  },
+  {
+    "english": "wall",
+    "ukrainian": "стіна"
+  },
+  {
+    "english": "door",
+    "ukrainian": "двері"
+  },
+  {
+    "english": "window",
+    "ukrainian": "вікно"
+  },
+  {
+    "english": "table",
+    "ukrainian": "стіл"
+  },
+  {
+    "english": "chair",
+    "ukrainian": "стілець"
+  },
+  {
+    "english": "sofa",
+    "ukrainian": "диван"
+  },
+  {
+    "english": "bed",
+    "ukrainian": "ліжко"
+  },
+  {
+    "english": "wardrobe",
+    "ukrainian": "шафа"
+  },
+  {
+    "english": "desk",
+    "ukrainian": "письмовий стіл"
+  },
+  {
+    "english": "bookshelf",
+    "ukrainian": "книжкова полиця"
+  },
+  {
+    "english": "drawer",
+    "ukrainian": "шухляда"
+  },
+  {
+    "english": "cupboard",
+    "ukrainian": "шафа для посуду"
+  },
+  {
+    "english": "lamp",
+    "ukrainian": "лампа"
+  },
+  {
+    "english": "clock",
+    "ukrainian": "годинник"
+  },
+  {
+    "english": "picture",
+    "ukrainian": "картина"
+  },
+  {
+    "english": "carpet",
+    "ukrainian": "килим"
+  },
+  {
+    "english": "rug",
+    "ukrainian": "килимок"
+  },
+  {
+    "english": "blanket",
+    "ukrainian": "ковдра"
+  },
+  {
+    "english": "pillow",
+    "ukrainian": "подушка"
+  },
+  {
+    "english": "towel",
+    "ukrainian": "рушник"
+  },
+  {
+    "english": "mirror",
+    "ukrainian": "дзеркало"
+  },
+  {
+    "english": "sink",
+    "ukrainian": "мийка"
+  },
+  {
+    "english": "bathtub",
+    "ukrainian": "ванна"
+  },
+  {
+    "english": "shower",
+    "ukrainian": "душ"
+  },
+  {
+    "english": "toilet",
+    "ukrainian": "туалет"
+  },
+  {
+    "english": "oven",
+    "ukrainian": "духовка"
+  },
+  {
+    "english": "stove",
+    "ukrainian": "плита"
+  },
+  {
+    "english": "refrigerator",
+    "ukrainian": "холодильник"
+  },
+  {
+    "english": "microwave",
+    "ukrainian": "мікрохвильовка"
+  },
+  {
+    "english": "kettle",
+    "ukrainian": "чайник"
+  },
+  {
+    "english": "dishwasher",
+    "ukrainian": "посудомийна машина"
+  },
+  {
+    "english": "washing machine",
+    "ukrainian": "пральна машина"
+  },
+  {
+    "english": "dryer",
+    "ukrainian": "сушарка"
+  },
+  {
+    "english": "vacuum cleaner",
+    "ukrainian": "пилосос"
+  },
+  {
+    "english": "iron",
+    "ukrainian": "праска"
+  },
+  {
+    "english": "fan",
+    "ukrainian": "вентилятор"
+  },
+  {
+    "english": "heater",
+    "ukrainian": "обігрівач"
+  },
+  {
+    "english": "air conditioner",
+    "ukrainian": "кондиціонер"
+  },
+  {
+    "english": "light bulb",
+    "ukrainian": "лампочка"
+  },
+  {
+    "english": "early spring flowers",
+    "ukrainian": "ранні весняні квіти"
+  },
+  {
+    "english": "hidden cave entrance",
+    "ukrainian": "прихований вхід до печери"
+  },
+  {
+    "english": "soft morning drizzle",
+    "ukrainian": "легкий ранковий дощ"
+  },
+  {
+    "english": "golden hour reflections",
+    "ukrainian": "відображення золотої години"
+  },
+  {
+    "english": "ancient temple ruins",
+    "ukrainian": "руїни стародавнього храму"
+  },
+  {
+    "english": "endless blue horizon",
+    "ukrainian": "безкінечний синій горизонт"
+  },
+  {
+    "english": "peaceful countryside sunrise",
+    "ukrainian": "спокійний світанок у сільській місцевості"
+  },
+  {
+    "english": "snow-covered rooftops",
+    "ukrainian": "засніжені дахи"
+  },
+  {
+    "english": "wild river currents",
+    "ukrainian": "дикі течії річки"
+  },
+  {
+    "english": "misty valley view",
+    "ukrainian": "туманний вид на долину"
+  },
+  {
+    "english": "quiet evening stroll",
+    "ukrainian": "тиха вечірня прогулянка"
+  },
+  {
+    "english": "frozen mountain lake",
+    "ukrainian": "замерзле гірське озеро"
+  },
+  {
+    "english": "sparkling icicles",
+    "ukrainian": "іскристі бурульки"
+  },
+  {
+    "english": "lush tropical forest",
+    "ukrainian": "пишний тропічний ліс"
+  },
+  {
+    "english": "desert oasis",
+    "ukrainian": "оазис у пустелі"
+  },
+  {
+    "english": "stormy ocean waves",
+    "ukrainian": "штормові океанські хвилі"
+  },
+  {
+    "english": "green meadow hills",
+    "ukrainian": "зелені луки на пагорбах"
+  },
+  {
+    "english": "hidden waterfall trail",
+    "ukrainian": "стежка до прихованого водоспаду"
+  },
+  {
+    "english": "twinkling city skyline",
+    "ukrainian": "мерехтливий горизонт міста"
+  },
+  {
+    "english": "wildflower meadow",
+    "ukrainian": "лука диких квітів"
+  },
+  {
+    "english": "majestic desert canyon",
+    "ukrainian": "величний пустельний каньйон"
+  },
+  {
+    "english": "sparkling snowflakes",
+    "ukrainian": "іскристі сніжинки"
+  },
+  {
+    "english": "sunlit forest glade",
+    "ukrainian": "освітлена сонцем лісова галявина"
+  },
+  {
+    "english": "colorful coral reef",
+    "ukrainian": "кольоровий кораловий риф"
+  },
+  {
+    "english": "rolling green fields",
+    "ukrainian": "хвилясті зелені поля"
+  },
+  {
+    "english": "crackling fireplace logs",
+    "ukrainian": "тріск дров у каміні"
+  },
+  {
+    "english": "glowing sunset horizon",
+    "ukrainian": "сяючий горизонт заходу сонця"
+  },
+  {
+    "english": "glistening river stones",
+    "ukrainian": "блискучі камені в річці"
+  },
+  {
+    "english": "morning bird calls",
+    "ukrainian": "ранкові співи птахів"
+  },
+  {
+    "english": "deep jungle trails",
+    "ukrainian": "глибокі стежки джунглів"
+  },
+  {
+    "english": "golden sunlit fields",
+    "ukrainian": "золоті сонячні поля"
+  },
+  {
+    "english": "snowy mountain slopes",
+    "ukrainian": "снігові схили гір"
+  },
+  {
+    "english": "moonlit ocean waves",
+    "ukrainian": "освітлені місяцем океанські хвилі"
+  },
+  {
+    "english": "crimson autumn forest",
+    "ukrainian": "червоний осінній ліс"
+  },
+  {
+    "english": "foggy morning meadow",
+    "ukrainian": "туманна ранкова лука"
+  },
+  {
+    "english": "bright carnival lights",
+    "ukrainian": "яскраві карнавальні вогні"
+  },
+  {
+    "english": "hidden garden blooms",
+    "ukrainian": "цвітіння в прихованому саду"
+  },
+  {
+    "english": "towering mountain cliffs",
+    "ukrainian": "високі гірські скелі"
+  },
+  {
+    "english": "golden beach sunrise",
+    "ukrainian": "золотий схід сонця на пляжі"
+  },
+  {
+    "english": "frosty window patterns",
+    "ukrainian": "морозні візерунки на вікнах"
+  },
+  {
+    "english": "autumn forest pathways",
+    "ukrainian": "осінні лісові стежки"
+  },
+  {
+    "english": "soothing piano melody",
+    "ukrainian": "заспокійлива мелодія піаніно"
+  },
+  {
+    "english": "rolling ocean tides",
+    "ukrainian": "хвилясті океанські припливи"
+  },
+  {
+    "english": "sparkling desert night",
+    "ukrainian": "іскриста пустельна ніч"
+  },
+  {
+    "english": "whispering pine trees",
+    "ukrainian": "шепіт соснових дерев"
+  },
+  {
+    "english": "colorful city murals",
+    "ukrainian": "кольорові міські мурали"
+  },
+  {
+    "english": "golden autumn sunset",
+    "ukrainian": "золотий осінній захід сонця"
+  },
+  {
+    "english": "ancient cobblestone streets",
+    "ukrainian": "старовинні бруковані вулиці"
+  },
+  {
+    "english": "tranquil mountain valley",
+    "ukrainian": "спокійна гірська долина"
+  },
+  {
+    "english": "distant rolling hills",
+    "ukrainian": "далекі пагорби"
+  },
+  {
+    "english": "glittering city skyline",
+    "ukrainian": "мерехтливий горизонт міста"
+  },
+  {
+    "english": "serene forest retreat",
+    "ukrainian": "спокійний лісовий притулок"
+  },
+  {
+    "english": "bright lantern festival",
+    "ukrainian": "яскравий фестиваль ліхтарів"
+  },
+  {
+    "english": "frosty woodland morning",
+    "ukrainian": "морозний лісовий ранок"
+  },
+  {
+    "english": "hidden riverbend",
+    "ukrainian": "прихований вигин річки"
+  },
+  {
+    "english": "sandy desert pathway",
+    "ukrainian": "піщана доріжка в пустелі"
+  },
+  {
+    "english": "golden desert dunes",
+    "ukrainian": "золоті пустельні дюни"
+  },
+  {
+    "english": "whisper of the sea",
+    "ukrainian": "шепіт моря"
+  },
+  {
+    "english": "ancient forest path",
+    "ukrainian": "стародавня лісова стежка"
+  },
+  {
+    "english": "hidden mountain spring",
+    "ukrainian": "приховане гірське джерело"
+  },
+  {
+    "english": "vivid tropical sunset",
+    "ukrainian": "яскравий тропічний захід сонця"
+  },
+  {
+    "english": "sparkling morning dew",
+    "ukrainian": "іскриста ранкова роса"
+  },
+  {
+    "english": "crimson evening sky",
+    "ukrainian": "червоне вечірнє небо"
+  },
+  {
+    "english": "rolling storm clouds",
+    "ukrainian": "хвилясті грозові хмари"
+  },
+  {
+    "english": "tranquil forest lake",
+    "ukrainian": "спокійне лісове озеро"
+  },
+  {
+    "english": "wildflower-covered hills",
+    "ukrainian": "пагорби, вкриті дикими квітами"
+  },
+  {
+    "english": "soft autumn breeze",
+    "ukrainian": "легкий осінній вітерець"
+  },
+  {
+    "english": "majestic mountain view",
+    "ukrainian": "величний гірський краєвид"
+  },
+  {
+    "english": "hidden ocean cove",
+    "ukrainian": "прихована океанська бухта"
+  },
+  {
+    "english": "golden sun-kissed beach",
+    "ukrainian": "золотий пляж, поцілований сонцем"
+  },
+  {
+    "english": "ancient stone bridge",
+    "ukrainian": "старовинний кам'яний міст"
+  },
+  {
+    "english": "luminous fireflies",
+    "ukrainian": "сяючі світлячки"
+  },
+  {
+    "english": "whispering grass fields",
+    "ukrainian": "шепіт трав'яних полів"
+  },
+  {
+    "english": "tranquil evening glow",
+    "ukrainian": "спокійне вечірнє сяйво"
+  },
+  {
+    "english": "sparkling river cascades",
+    "ukrainian": "іскристі річкові каскади"
+  },
+  {
+    "english": "hidden forest meadow",
+    "ukrainian": "прихована лісова галявина"
+  },
+  {
+    "english": "snowy pine forest",
+    "ukrainian": "засніжений сосновий ліс"
+  },
+  {
+    "english": "quiet fishing village",
+    "ukrainian": "тихе рибальське село"
+  },
+  {
+    "english": "colorful kite festival",
+    "ukrainian": "яскравий фестиваль повітряних зміїв"
+  },
+  {
+    "english": "glowing lanterns",
+    "ukrainian": "сяючі ліхтарі"
+  },
+  {
+    "english": "ancient stone ruins",
+    "ukrainian": "руїни старовинних кам'яних будівель"
+  },
+  {
+    "english": "sunlit garden path",
+    "ukrainian": "освітлена сонцем садова доріжка"
+  },
+  {
+    "english": "rolling countryside hills",
+    "ukrainian": "хвилясті пагорби сільської місцевості"
+  },
+  {
+    "english": "frost-covered branches",
+    "ukrainian": "гілки, вкриті інеєм"
+  },
+  {
+    "english": "autumn harvest fields",
+    "ukrainian": "осінні врожайні поля"
+  },
+  {
+    "english": "majestic forest canopy",
+    "ukrainian": "величний лісовий намет"
+  },
+  {
+    "english": "glistening cave crystals",
+    "ukrainian": "блискучі кристали в печері"
+  },
+  {
+    "english": "crackling campfire",
+    "ukrainian": "тріск багаття"
+  },
+  {
+    "english": "snowy village rooftops",
+    "ukrainian": "засніжені дахи села"
+  },
+  {
+    "english": "sparkling winter frost",
+    "ukrainian": "іскристий зимовий мороз"
+  },
+  {
+    "english": "ancient city gate",
+    "ukrainian": "старовинні міські ворота"
+  },
+  {
+    "english": "lone desert tree",
+    "ukrainian": "одиноке дерево в пустелі"
+  },
+  {
+    "english": "crimson sunset glow",
+    "ukrainian": "червоне сяйво заходу сонця"
+  },
+  {
+    "english": "distant snow-capped peaks",
+    "ukrainian": "далекі вершини, вкриті снігом"
+  },
+  {
+    "english": "golden sandy shore",
+    "ukrainian": "золотистий піщаний берег"
+  },
+  {
+    "english": "frosty meadow dawn",
+    "ukrainian": "морозний світанок на лузі"
+  },
+  {
+    "english": "hidden jungle waterfall",
+    "ukrainian": "прихований водоспад у джунглях"
+  },
+  {
+    "english": "peaceful winter morning",
+    "ukrainian": "спокійний зимовий ранок"
+  },
+  {
+    "english": "rolling desert hills",
+    "ukrainian": "хвилясті пустельні пагорби"
+  },
+  {
+    "english": "sparkling ocean spray",
+    "ukrainian": "іскриста океанська бризка"
+  },
+  {
+    "english": "whispering forest streams",
+    "ukrainian": "шепіт лісових струмків"
+  },
+  {
+    "english": "ancient village square",
+    "ukrainian": "старовинна сільська площа"
+  },
+  {
+    "english": "majestic eagle flight",
+    "ukrainian": "величний політ орла"
+  },
+  {
+    "english": "luminous sunrise clouds",
+    "ukrainian": "сяючі хмари на світанку"
+  },
+  {
+    "english": "glistening forest dew",
+    "ukrainian": "блискуча роса в лісі"
+  },
+  {
+    "english": "hidden meadow stream",
+    "ukrainian": "прихований струмок на лузі"
+  },
+  {
+    "english": "quiet mountain refuge",
+    "ukrainian": "тихий гірський притулок"
+  },
+  {
+    "english": "sparkling riverbank",
+    "ukrainian": "іскристий берег річки"
+  },
+  {
+    "english": "crimson evening horizon",
+    "ukrainian": "червоний вечірній горизонт"
+  },
+  {
+    "english": "majestic river canyon",
+    "ukrainian": "величний річковий каньйон"
+  },
+  {
+    "english": "bright festival lights",
+    "ukrainian": "яскраві фестивальні вогні"
+  },
+  {
+    "english": "golden valley sunrise",
+    "ukrainian": "золотий світанок у долині"
+  },
+  {
+    "english": "morning coffee",
+    "ukrainian": "ранкова кава"
+  },
+  {
+    "english": "daily routine",
+    "ukrainian": "щоденна рутина"
+  },
+  {
+    "english": "cleaning the house",
+    "ukrainian": "прибирання дому"
+  },
+  {
+    "english": "doing the laundry",
+    "ukrainian": "прання білизни"
+  },
+  {
+    "english": "cooking dinner",
+    "ukrainian": "приготування вечері"
+  },
+  {
+    "english": "taking a shower",
+    "ukrainian": "прийняття душу"
+  },
+  {
+    "english": "walking the dog",
+    "ukrainian": "вигулювання собаки"
+  },
+  {
+    "english": "riding the bus",
+    "ukrainian": "їзда на автобусі"
+  },
+  {
+    "english": "working on a computer",
+    "ukrainian": "робота за комп'ютером"
+  },
+  {
+    "english": "reading a book",
+    "ukrainian": "читання книги"
+  },
+  {
+    "english": "watching TV",
+    "ukrainian": "перегляд телевізора"
+  },
+  {
+    "english": "buying groceries",
+    "ukrainian": "покупка продуктів"
+  },
+  {
+    "english": "going for a run",
+    "ukrainian": "пробіжка"
+  },
+  {
+    "english": "brushing teeth",
+    "ukrainian": "чищення зубів"
+  },
+  {
+    "english": "getting dressed",
+    "ukrainian": "вдягання"
+  },
+  {
+    "english": "making the bed",
+    "ukrainian": "застилання ліжка"
+  },
+  {
+    "english": "answering emails",
+    "ukrainian": "відповіді на електронні листи"
+  },
+  {
+    "english": "paying bills",
+    "ukrainian": "оплата рахунків"
+  },
+  {
+    "english": "drinking water",
+    "ukrainian": "вживання води"
+  },
+  {
+    "english": "calling a friend",
+    "ukrainian": "дзвінок другу"
+  },
+  {
+    "english": "writing notes",
+    "ukrainian": "записування нотаток"
+  },
+  {
+    "english": "eating breakfast",
+    "ukrainian": "сніданок"
+  },
+  {
+    "english": "catching a taxi",
+    "ukrainian": "виклик таксі"
+  },
+  {
+    "english": "waiting in line",
+    "ukrainian": "очікування в черзі"
+  },
+  {
+    "english": "checking the weather",
+    "ukrainian": "перевірка погоди"
+  },
+  {
+    "english": "watering the plants",
+    "ukrainian": "поливання рослин"
+  },
+  {
+    "english": "feeding the cat",
+    "ukrainian": "годування кота"
+  },
+  {
+    "english": "cleaning the dishes",
+    "ukrainian": "миття посуду"
+  },
+  {
+    "english": "turning off the lights",
+    "ukrainian": "вимикання світла"
+  },
+  {
+    "english": "putting on shoes",
+    "ukrainian": "вдягання взуття"
+  },
+  {
+    "english": "packing a lunch",
+    "ukrainian": "пакування обіду"
+  },
+  {
+    "english": "checking the calendar",
+    "ukrainian": "перевірка календаря"
+  },
+  {
+    "english": "charging the phone",
+    "ukrainian": "зарядка телефону"
+  },
+  {
+    "english": "writing a report",
+    "ukrainian": "написання звіту"
+  },
+  {
+    "english": "planning the week",
+    "ukrainian": "планування тижня"
+  },
+  {
+    "english": "opening the window",
+    "ukrainian": "відчинення вікна"
+  },
+  {
+    "english": "closing the door",
+    "ukrainian": "закривання дверей"
+  },
+  {
+    "english": "cleaning the mirror",
+    "ukrainian": "чистка дзеркала"
+  },
+  {
+    "english": "vacuuming the carpet",
+    "ukrainian": "пилососіння килима"
+  },
+  {
+    "english": "taking out the trash",
+    "ukrainian": "винос сміття"
+  },
+  {
+    "english": "tidying the room",
+    "ukrainian": "прибирання кімнати"
+  },
+  {
+    "english": "writing a shopping list",
+    "ukrainian": "написання списку покупок"
+  },
+  {
+    "english": "booking a table",
+    "ukrainian": "бронювання столика"
+  },
+  {
+    "english": "sending a message",
+    "ukrainian": "відправка повідомлення"
+  },
+  {
+    "english": "making tea",
+    "ukrainian": "заварювання чаю"
+  },
+  {
+    "english": "doing homework",
+    "ukrainian": "виконання домашнього завдання"
+  },
+  {
+    "english": "taking a nap",
+    "ukrainian": "короткий сон"
+  },
+  {
+    "english": "visiting relatives",
+    "ukrainian": "відвідини родичів"
+  },
+  {
+    "english": "driving to work",
+    "ukrainian": "дорога на роботу"
+  },
+  {
+    "english": "buying a gift",
+    "ukrainian": "покупка подарунка"
+  },
+  {
+    "english": "reading the news",
+    "ukrainian": "читання новин"
+  },
+  {
+    "english": "preparing for a meeting",
+    "ukrainian": "підготовка до зустрічі"
+  },
+  {
+    "english": "taking an umbrella",
+    "ukrainian": "взяття парасольки"
+  },
+  {
+    "english": "choosing clothes",
+    "ukrainian": "вибір одягу"
+  },
+  {
+    "english": "looking for keys",
+    "ukrainian": "пошук ключів"
+  },
+  {
+    "english": "setting the alarm",
+    "ukrainian": "встановлення будильника"
+  },
+  {
+    "english": "checking the mail",
+    "ukrainian": "перевірка пошти"
+  },
+  {
+    "english": "helping a neighbor",
+    "ukrainian": "допомога сусіду"
+  },
+  {
+    "english": "walking to school",
+    "ukrainian": "дорога до школи пішки"
+  },
+  {
+    "english": "taking a break",
+    "ukrainian": "перерва"
+  },
+  {
+    "english": "closing the curtains",
+    "ukrainian": "закривання штор"
+  },
+  {
+    "english": "writing a diary",
+    "ukrainian": "ведення щоденника"
+  },
+  {
+    "english": "catching the train",
+    "ukrainian": "поїздка потягом"
+  },
+  {
+    "english": "feeding the baby",
+    "ukrainian": "годування дитини"
+  },
+  {
+    "english": "opening the fridge",
+    "ukrainian": "відкривання холодильника"
+  },
+  {
+    "english": "cleaning the windows",
+    "ukrainian": "миття вікон"
+  },
+  {
+    "english": "dusting the shelves",
+    "ukrainian": "протирання пилу на полицях"
+  },
+  {
+    "english": "making a sandwich",
+    "ukrainian": "приготування бутерброда"
+  },
+  {
+    "english": "charging the laptop",
+    "ukrainian": "заряджання ноутбука"
+  },
+  {
+    "english": "checking the clock",
+    "ukrainian": "перевірка годинника"
+  },
+  {
+    "english": "turning on the heater",
+    "ukrainian": "увімкнення обігрівача"
+  },
+  {
+    "english": "folding the laundry",
+    "ukrainian": "складання білизни"
+  },
+  {
+    "english": "making a call",
+    "ukrainian": "здійснення дзвінка"
+  },
+  {
+    "english": "checking the time",
+    "ukrainian": "перевірка часу"
+  },
+  {
+    "english": "buying a ticket",
+    "ukrainian": "купівля квитка"
+  },
+  {
+    "english": "walking in the park",
+    "ukrainian": "прогулянка в парку"
+  },
+  {
+    "english": "petting a cat",
+    "ukrainian": "гладити кота"
+  },
+  {
+    "english": "watering flowers",
+    "ukrainian": "поливання квітів"
+  },
+  {
+    "english": "reading a newspaper",
+    "ukrainian": "читання газети"
+  },
+  {
+    "english": "eating out",
+    "ukrainian": "обідати в ресторані"
+  },
+  {
+    "english": "catching a cold",
+    "ukrainian": "застудитися"
+  },
+  {
+    "english": "visiting a doctor",
+    "ukrainian": "візит до лікаря"
+  },
+  {
+    "english": "booking a ticket",
+    "ukrainian": "бронювання квитка"
+  },
+  {
+    "english": "doing the dishes",
+    "ukrainian": "миття посуду"
+  },
+  {
+    "english": "preparing breakfast",
+    "ukrainian": "приготування сніданку"
+  },
+  {
+    "english": "cleaning the floor",
+    "ukrainian": "миття підлоги"
+  },
+  {
+    "english": "switching off the TV",
+    "ukrainian": "вимикання телевізора"
+  },
+  {
+    "english": "checking social media",
+    "ukrainian": "перевірка соцмереж"
+  },
+  {
+    "english": "writing a letter",
+    "ukrainian": "написання листа"
+  },
+  {
+    "english": "eating an apple",
+    "ukrainian": "їсти яблуко"
+  },
+  {
+    "english": "feeding the fish",
+    "ukrainian": "годувати рибок"
+  },
+  {
+    "english": "opening the curtains",
+    "ukrainian": "відкривати штори"
+  },
+  {
+    "english": "closing the window",
+    "ukrainian": "закривати вікно"
+  },
+  {
+    "english": "pouring water",
+    "ukrainian": "наливати воду"
+  },
+  {
+    "english": "changing the sheets",
+    "ukrainian": "змінювати постіль"
+  },
+  {
+    "english": "starting the car",
+    "ukrainian": "запускати машину"
+  },
+  {
+    "english": "looking out the window",
+    "ukrainian": "дивитися у вікно"
+  },
+  {
+    "english": "filling a bottle",
+    "ukrainian": "наповнювати пляшку"
+  },
+  {
+    "english": "choosing a book",
+    "ukrainian": "вибирати книгу"
+  },
+  {
+    "english": "answering the phone",
+    "ukrainian": "відповідати на дзвінок"
+  },
+  {
+    "english": "locking the door",
+    "ukrainian": "замикати двері"
+  },
+  {
+    "english": "checking the map",
+    "ukrainian": "перевіряти карту"
+  },
+  {
+    "english": "finding the keys",
+    "ukrainian": "знаходити ключі"
+  },
+  {
+    "english": "setting the table",
+    "ukrainian": "накривати на стіл"
+  },
+  {
+    "english": "reading the menu",
+    "ukrainian": "читати меню"
+  },
+  {
+    "english": "choosing a restaurant",
+    "ukrainian": "вибирати ресторан"
+  },
+  {
+    "english": "opening a book",
+    "ukrainian": "відкривати книгу"
+  },
+  {
+    "english": "cleaning the keyboard",
+    "ukrainian": "чистити клавіатуру"
+  },
+  {
+    "english": "baking a cake",
+    "ukrainian": "пекти торт"
+  },
+  {
+    "english": "boiling water",
+    "ukrainian": "кип'ятити воду"
+  },
+  {
+    "english": "packing a suitcase",
+    "ukrainian": "пакувати валізу"
+  },
+  {
+    "english": "waiting for a friend",
+    "ukrainian": "чекати друга"
+  },
+  {
+    "english": "repairing a bike",
+    "ukrainian": "ремонтувати велосипед"
+  },
+  {
+    "english": "planting a tree",
+    "ukrainian": "саджати дерево"
+  },
+  {
+    "english": "feeding the dog",
+    "ukrainian": "годувати собаку"
+  },
+  {
+    "english": "washing the car",
+    "ukrainian": "мити машину"
+  },
+  {
+    "english": "hanging up clothes",
+    "ukrainian": "вішати одяг"
+  },
+  {
+    "english": "fixing a chair",
+    "ukrainian": "ремонтувати стілець"
+  },
+  {
+    "english": "playing the piano",
+    "ukrainian": "грати на піаніно"
+  },
+  {
+    "english": "doing yoga",
+    "ukrainian": "займатися йогою"
+  },
+  {
+    "english": "going to the gym",
+    "ukrainian": "ходити до спортзалу"
+  },
+  {
+    "english": "listening to music",
+    "ukrainian": "слухати музику"
+  },
+  {
+    "english": "brushing the hair",
+    "ukrainian": "розчісувати волосся"
+  },
+  {
+    "english": "writing a to-do list",
+    "ukrainian": "складати список справ"
+  },
+  {
+    "english": "folding clothes",
+    "ukrainian": "складати одяг"
+  },
+  {
+    "english": "tying shoelaces",
+    "ukrainian": "зав'язувати шнурки"
+  },
+  {
+    "english": "brushing teeth",
+    "ukrainian": "чистити зуби"
+  },
+  {
+    "english": "pouring a cup of tea",
+    "ukrainian": "наливати чашку чаю"
+  },
+  {
+    "english": "buttoning a shirt",
+    "ukrainian": "застібати сорочку"
+  },
+  {
+    "english": "writing a shopping list",
+    "ukrainian": "писати список покупок"
+  },
+  {
+    "english": "unlocking the phone",
+    "ukrainian": "розблоковувати телефон"
+  },
+  {
+    "english": "opening a package",
+    "ukrainian": "відкривати посилку"
+  },
+  {
+    "english": "checking the mailbox",
+    "ukrainian": "перевіряти поштову скриньку"
+  },
+  {
+    "english": "taking out the trash",
+    "ukrainian": "виносити сміття"
+  },
+  {
+    "english": "closing the curtains",
+    "ukrainian": "закривати штори"
+  },
+  {
+    "english": "walking the dog",
+    "ukrainian": "вигулювати собаку"
+  },
+  {
+    "english": "turning on the light",
+    "ukrainian": "вмикати світло"
+  },
+  {
+    "english": "choosing an outfit",
+    "ukrainian": "вибирати одяг"
+  },
+  {
+    "english": "taking a shower",
+    "ukrainian": "приймати душ"
+  },
+  {
+    "english": "checking the weather",
+    "ukrainian": "перевіряти погоду"
+  },
+  {
+    "english": "browsing the internet",
+    "ukrainian": "переглядати інтернет"
+  },
+  {
+    "english": "ordering food online",
+    "ukrainian": "замовляти їжу онлайн"
+  },
+  {
+    "english": "cutting vegetables",
+    "ukrainian": "різати овочі"
+  },
+  {
+    "english": "boiling pasta",
+    "ukrainian": "варити макарони"
+  },
+  {
+    "english": "mixing ingredients",
+    "ukrainian": "змішувати інгредієнти"
+  },
+  {
+    "english": "filling a glass",
+    "ukrainian": "наповнювати склянку"
+  },
+  {
+    "english": "putting on a jacket",
+    "ukrainian": "надягати куртку"
+  },
+  {
+    "english": "washing the dishes",
+    "ukrainian": "мити посуд"
+  },
+  {
+    "english": "hanging curtains",
+    "ukrainian": "вішати штори"
+  },
+  {
+    "english": "buying groceries",
+    "ukrainian": "купувати продукти"
+  },
+  {
+    "english": "drinking water",
+    "ukrainian": "пити воду"
+  },
+  {
+    "english": "ironing clothes",
+    "ukrainian": "прасувати одяг"
+  },
+  {
+    "english": "vacuuming the carpet",
+    "ukrainian": "пилососити килим"
+  },
+  {
+    "english": "making the bed",
+    "ukrainian": "застеляти ліжко"
+  },
+  {
+    "english": "reading a novel",
+    "ukrainian": "читати роман"
+  },
+  {
+    "english": "writing an email",
+    "ukrainian": "писати електронний лист"
+  },
+  {
+    "english": "scrolling through photos",
+    "ukrainian": "переглядати фото"
+  },
+  {
+    "english": "opening a drawer",
+    "ukrainian": "відкривати шухляду"
+  },
+  {
+    "english": "folding a towel",
+    "ukrainian": "складати рушник"
+  },
+  {
+    "english": "adjusting the thermostat",
+    "ukrainian": "регулювати термостат"
+  },
+  {
+    "english": "cleaning the mirror",
+    "ukrainian": "чистити дзеркало"
+  },
+  {
+    "english": "setting an alarm",
+    "ukrainian": "встановлювати будильник"
+  },
+  {
+    "english": "charging the phone",
+    "ukrainian": "заряджати телефон"
+  },
+  {
+    "english": "organizing the desk",
+    "ukrainian": "організовувати робочий стіл"
+  },
+  {
+    "english": "packing lunch",
+    "ukrainian": "пакувати обід"
+  },
+  {
+    "english": "turning off the alarm",
+    "ukrainian": "вимикати будильник"
+  },
+  {
+    "english": "stretching the body",
+    "ukrainian": "розтягувати тіло"
+  },
+  {
+    "english": "picking up a package",
+    "ukrainian": "забирати посилку"
+  },
+  {
+    "english": "cleaning the stove",
+    "ukrainian": "чистити плиту"
+  },
+  {
+    "english": "sweeping the floor",
+    "ukrainian": "підмітати підлогу"
+  },
+  {
+    "english": "tidying up the room",
+    "ukrainian": "прибирати кімнату"
+  },
+  {
+    "english": "grinding coffee beans",
+    "ukrainian": "молоти кавові зерна"
+  },
+  {
+    "english": "replacing a light bulb",
+    "ukrainian": "замінювати лампочку"
+  },
+  {
+    "english": "opening a soda can",
+    "ukrainian": "відкривати банку соди"
+  },
+  {
+    "english": "applying sunscreen",
+    "ukrainian": "наносити сонцезахисний крем"
+  },
+  {
+    "english": "checking the news",
+    "ukrainian": "перевіряти новини"
+  },
+  {
+    "english": "answering a message",
+    "ukrainian": "відповідати на повідомлення"
+  },
+  {
+    "english": "preparing a smoothie",
+    "ukrainian": "готувати смузі"
+  },
+  {
+    "english": "making a reservation",
+    "ukrainian": "бронювати місце"
+  },
+  {
+    "english": "putting on headphones",
+    "ukrainian": "надягати навушники"
+  },
+  {
+    "english": "looking for keys",
+    "ukrainian": "шукати ключі"
+  },
+  {
+    "english": "cutting the grass",
+    "ukrainian": "косити траву"
+  },
+  {
+    "english": "recycling bottles",
+    "ukrainian": "переробляти пляшки"
+  },
+  {
+    "english": "drinking herbal tea",
+    "ukrainian": "пити трав'яний чай"
+  },
+  {
+    "english": "watching the sunrise",
+    "ukrainian": "спостерігати за сходом сонця"
+  },
+  {
+    "english": "sending a postcard",
+    "ukrainian": "надсилати листівку"
+  },
+  {
+    "english": "washing hands",
+    "ukrainian": "мити руки"
+  },
+  {
+    "english": "riding a bicycle",
+    "ukrainian": "їздити на велосипеді"
+  },
+  {
+    "english": "taking a bus",
+    "ukrainian": "сісти на автобус"
+  },
+  {
+    "english": "opening a window",
+    "ukrainian": "відкривати вікно"
+  },
+  {
+    "english": "zipping a bag",
+    "ukrainian": "застібати сумку"
+  },
+  {
+    "english": "unlocking the door",
+    "ukrainian": "відчиняти двері"
+  },
+  {
+    "english": "wearing sunglasses",
+    "ukrainian": "носити сонцезахисні окуляри"
+  },
+  {
+    "english": "checking the calendar",
+    "ukrainian": "перевіряти календар"
+  },
+  {
+    "english": "planting flowers",
+    "ukrainian": "садити квіти"
+  },
+  {
+    "english": "wrapping a gift",
+    "ukrainian": "загортати подарунок"
+  },
+  {
+    "english": "cleaning the table",
+    "ukrainian": "чистити стіл"
+  },
+  {
+    "english": "boiling water",
+    "ukrainian": "кип'ятити воду"
+  },
+  {
+    "english": "feeding a pet",
+    "ukrainian": "годувати домашню тварину"
+  },
+  {
+    "english": "taking a selfie",
+    "ukrainian": "робити селфі"
+  },
+  {
+    "english": "writing a diary",
+    "ukrainian": "писати щоденник"
+  },
+  {
+    "english": "listening to music",
+    "ukrainian": "слухати музику"
+  },
+  {
+    "english": "checking emails",
+    "ukrainian": "перевіряти електронну пошту"
+  },
+  {
+    "english": "charging a laptop",
+    "ukrainian": "заряджати ноутбук"
+  },
+  {
+    "english": "dusting the shelves",
+    "ukrainian": "витирати пил з полиць"
+  },
+  {
+    "english": "filling out a form",
+    "ukrainian": "заповнювати форму"
+  },
+  {
+    "english": "climbing stairs",
+    "ukrainian": "підніматися сходами"
+  },
+  {
+    "english": "sending a text message",
+    "ukrainian": "відправляти текстове повідомлення"
+  },
+  {
+    "english": "catching a taxi",
+    "ukrainian": "ловити таксі"
+  },
+  {
+    "english": "watering plants",
+    "ukrainian": "поливати рослини"
+  },
+  {
+    "english": "baking a cake",
+    "ukrainian": "пекти торт"
+  },
+  {
+    "english": "visiting a friend",
+    "ukrainian": "відвідувати друга"
+  },
+  {
+    "english": "watching television",
+    "ukrainian": "дивитися телевізор"
+  },
+  {
+    "english": "buying a ticket",
+    "ukrainian": "купувати квиток"
+  },
+  {
+    "english": "stirring a drink",
+    "ukrainian": "перемішувати напій"
+  },
+  {
+    "english": "reading the newspaper",
+    "ukrainian": "читати газету"
+  },
+  {
+    "english": "driving a car",
+    "ukrainian": "водити машину"
+  },
+  {
+    "english": "opening a notebook",
+    "ukrainian": "відкривати зошит"
+  },
+  {
+    "english": "sending a package",
+    "ukrainian": "відправляти посилку"
+  },
+  {
+    "english": "counting money",
+    "ukrainian": "рахувати гроші"
+  },
+  {
+    "english": "drinking coffee",
+    "ukrainian": "пити каву"
+  },
+  {
+    "english": "choosing groceries",
+    "ukrainian": "вибирати продукти"
+  },
+  {
+    "english": "hanging up clothes",
+    "ukrainian": "вішати одяг"
+  },
+  {
+    "english": "peeling an orange",
+    "ukrainian": "чистити апельсин"
+  },
+  {
+    "english": "slicing bread",
+    "ukrainian": "різати хліб"
+  },
+  {
+    "english": "walking in the park",
+    "ukrainian": "гуляти в парку"
+  },
+  {
+    "english": "opening a map",
+    "ukrainian": "відкривати карту"
+  },
+  {
+    "english": "hiking a trail",
+    "ukrainian": "йти по стежці"
+  },
+  {
+    "english": "enjoying the sunset",
+    "ukrainian": "насолоджуватися заходом сонця"
+  },
+  {
+    "english": "preparing breakfast",
+    "ukrainian": "готувати сніданок"
+  },
+  {
+    "english": "calling a friend",
+    "ukrainian": "дзвонити другу"
+  },
+  {
+    "english": "tidying the desk",
+    "ukrainian": "прибирати стіл"
+  },
+  {
+    "english": "eating an apple",
+    "ukrainian": "їсти яблуко"
+  },
+  {
+    "english": "decorating a room",
+    "ukrainian": "прикрашати кімнату"
+  },
+  {
+    "english": "choosing a book",
+    "ukrainian": "вибирати книгу"
+  },
+  {
+    "english": "walking to work",
+    "ukrainian": "йти на роботу"
+  },
+  {
+    "english": "picking flowers",
+    "ukrainian": "збирати квіти"
+  },
+  {
+    "english": "writing a report",
+    "ukrainian": "писати звіт"
+  },
+  {
+    "english": "trying on shoes",
+    "ukrainian": "міряти взуття"
+  },
+  {
+    "english": "ordering coffee",
+    "ukrainian": "замовляти каву"
+  },
+  {
+    "english": "taking a taxi",
+    "ukrainian": "їхати на таксі"
+  },
+  {
+    "english": "browsing a catalog",
+    "ukrainian": "переглядати каталог"
+  },
+  {
+    "english": "boiling soup",
+    "ukrainian": "варити суп"
+  },
+  {
+    "english": "cleaning the floor",
+    "ukrainian": "мити підлогу"
+  },
+  {
+    "english": "checking the fridge",
+    "ukrainian": "перевіряти холодильник"
+  },
+  {
+    "english": "loading the dishwasher",
+    "ukrainian": "завантажувати посудомийку"
+  }
+]

@@ -18,18 +18,20 @@ const scheduleMessages = (client, messageConfig, isConnected, messageQueue) => {
       }
 
       try {
-        let finalMessage = message; // Стандартне повідомлення
+        let finalMessage;
 
         // Перевіряємо тип повідомлення
-        if (type === 'weather' && city) {
+        if (type === 'weather') {
           const weatherApiKey = env('WEATHER_API_KEY'); // Отримуємо ключ через env
           finalMessage = await getWeather(city, weatherApiKey);
         } else if (type === 'joke') {
           finalMessage = await getJoke(); // Отримуємо анекдот
         } else if (type === 'word') {
           finalMessage = getRandomWord(); // Отримуємо випадкове слово чи фразу
+        } else if (message) {
+          finalMessage = message; // Використовуємо надане повідомлення
         } else {
-          finalMessage = 'Тип повідомлення не підтримується.'; // Обробка невідомого типу
+          finalMessage = 'Тип повідомлення не підтримується.';
         }
 
         await client.sendMessage(groupChatId, finalMessage);

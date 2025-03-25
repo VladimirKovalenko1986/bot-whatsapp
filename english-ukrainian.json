@@ -1,800 +1,680 @@
 [
   {
-      "english": "in",
-      "transcription": "[ɪn]",
-      "ukrainian": "в"
-  },
-  {
-      "english": "excuse me",
-      "transcription": "[ɪkˈskjuːz mi]",
-      "ukrainian": "вибачте, пробачте"
-  },
-  {
-      "english": "have",
-      "transcription": "[hæv]",
-      "ukrainian": "мати"
-  },
-  {
-      "english": "nine",
-      "transcription": "[naɪn]",
-      "ukrainian": "дев’ять"
-  },
-  {
-      "english": "yes",
-      "transcription": "[jɛs]",
-      "ukrainian": "так"
-  },
-  {
-      "english": "one moment",
-      "transcription": "[wʌn ˈmoʊmənt]",
-      "ukrainian": "одну хвилинку"
-  },
-  {
-      "english": "please",
-      "transcription": "[pliːz]",
-      "ukrainian": "будь ласка"
-  },
-  {
-      "english": "we are",
-      "transcription": "[wi ɑr]",
-      "ukrainian": "ми є"
-  },
-  {
-      "english": "hello",
-      "transcription": "[həˈloʊ]",
-      "ukrainian": "привіт"
-  },
-  {
-      "english": "my name is",
-      "transcription": "[maɪ neɪm ɪz]",
-      "ukrainian": "мене звати"
-  },
-  {
-      "english": "no",
-      "transcription": "[noʊ]",
-      "ukrainian": "ні"
-  },
-  {
-      "english": "not",
-      "transcription": "[nɒt]",
-      "ukrainian": "не"
-  },
-  {
-      "english": "unfortunately",
-      "transcription": "[ʌnˈfɔːrtʃənətli]",
-      "ukrainian": "на жаль"
-  },
-  {
-      "english": "I am",
-      "transcription": "[aɪ æm]",
-      "ukrainian": "я є"
-  },
-  {
-      "english": "we are going",
-      "transcription": "[wi ɑr ˈɡoʊɪŋ]",
-      "ukrainian": "ми йдемо (їдемо, летимо)"
-  },
-  {
-      "english": "to",
-      "transcription": "[tu]",
-      "ukrainian": "до, на"
-  },
-  {
-      "english": "you",
-      "transcription": "[ju]",
-      "ukrainian": "ти, ви"
-  },
-  {
-      "english": "too",
-      "transcription": "[tuː]",
-      "ukrainian": "теж, також"
-  },
-  {
-      "english": "also",
-      "transcription": "[ˈɔːlsoʊ]",
-      "ukrainian": "також"
-  },
-  {
-      "english": "but",
-      "transcription": "[bʌt]",
-      "ukrainian": "але"
-  },
-  {
-      "english": "from",
-      "transcription": "[frɒm]",
-      "ukrainian": "з, від"
-  },
-  {
-      "english": "beautiful",
-      "transcription": "[ˈbjuːtɪfəl]",
-      "ukrainian": "красивий, чудовий"
-  },
-  {
-      "english": "for",
-      "transcription": "[fɔr]",
-      "ukrainian": "для, на, протягом"
-  },
-  {
-      "english": "company",
-      "transcription": "[ˈkʌmpəni]",
-      "ukrainian": "компанія"
-  },
-  {
-      "english": "do you work",
-      "transcription": "[du ju wɜːrk]",
-      "ukrainian": "ви працюєте?"
-  },
-  {
-      "english": "job",
-      "transcription": "[dʒɒb]",
-      "ukrainian": "робота"
-  },
-  {
-      "english": "better",
-      "transcription": "[ˈbɛtər]",
-      "ukrainian": "краще"
-  },
-  {
-      "english": "interesting",
-      "transcription": "[ˈɪntrəstɪŋ]",
-      "ukrainian": "цікавий"
-  },
-  {
-      "english": "father",
-      "transcription": "[ˈfɑːðər]",
-      "ukrainian": "батько"
-  },
-  {
-      "english": "friend",
-      "transcription": "[frɛnd]",
-      "ukrainian": "друг"
-  },
-  {
-      "english": "always",
-      "transcription": "[ˈɔːlweɪz]",
-      "ukrainian": "завжди"
-  },
-  {
-      "english": "telephone",
-      "transcription": "[ˈtɛləˌfoʊn]",
-      "ukrainian": "телефон"
-  },
-  {
-      "english": "costs",
-      "transcription": "[kɒsts]",
-      "ukrainian": "коштує"
-  },
-  {
-      "english": "holiday",
-      "transcription": "[ˈhɒlɪdeɪ]",
-      "ukrainian": "відпустка, свято"
-  },
-  {
-      "english": "September",
-      "transcription": "[sɛpˈtɛmbər]",
-      "ukrainian": "вересень"
-  },
-  {
-      "english": "safe",
-      "transcription": "[seɪf]",
-      "ukrainian": "сейф, безпечний"
-  },
-  {
-      "english": "February",
-      "transcription": "[ˈfɛbruˌɛri]",
-      "ukrainian": "лютий"
-  },
-  {
-      "english": "March",
-      "transcription": "[mɑːrtʃ]",
-      "ukrainian": "березень"
-  },
-  {
-      "english": "July",
-      "transcription": "[dʒʊˈlaɪ]",
-      "ukrainian": "липень"
-  },
-  {
-      "english": "August",
-      "transcription": "[ˈɔːɡəst]",
-      "ukrainian": "серпень"
-  },
-  {
-      "english": "October",
-      "transcription": "[ɒkˈtoʊbər]",
-      "ukrainian": "жовтень"
-  },
-  {
-      "english": "November",
-      "transcription": "[noʊˈvɛmbər]",
-      "ukrainian": "листопад"
-  },
-  {
-      "english": "December",
-      "transcription": "[dɪˈsɛmbər]",
-      "ukrainian": "грудень"
-  },
-  {
-      "english": "room",
-      "transcription": "ruːm",
-      "ukrainian": "номер, комната"
-  },
-  {
-      "english": "double room",
-      "transcription": "ˈdʌbəl ruːm",
-      "ukrainian": "двухместный номер"
-  },
-  {
-      "english": "night",
-      "transcription": "naɪt",
-      "ukrainian": "ночь"
-  },
-  {
-      "english": "too",
-      "transcription": "tuː",
-      "ukrainian": "слишком, очень"
-  },
-  {
-      "english": "we don’t have",
-      "transcription": "wi doʊnt hæv",
-      "ukrainian": "у нас нет"
-  },
-  {
-      "english": "small",
-      "transcription": "smɔːl",
-      "ukrainian": "маленький/ая"
-  },
-  {
-      "english": "bath",
-      "transcription": "bæθ",
-      "ukrainian": "ванная (комната)"
-  },
-  {
-      "english": "shower",
-      "transcription": "ˈʃaʊər",
-      "ukrainian": "душ"
-  },
-  {
-      "english": "broken",
-      "transcription": "ˈbroʊkən",
-      "ukrainian": "сломанный/ая"
-  },
-  {
-      "english": "perhaps",
-      "transcription": "pərˈhæps",
-      "ukrainian": "возможно, может быть"
-  },
-  {
-      "english": "husband",
-      "transcription": "ˈhʌzbənd",
-      "ukrainian": "муж"
-  },
-  {
-      "english": "can",
-      "transcription": "kæn",
-      "ukrainian": "может, сможет"
-  },
-  {
-      "english": "(to) repair",
-      "transcription": "rɪˈpɛər",
-      "ukrainian": "починить"
-  },
-  {
-      "english": "it",
-      "transcription": "ɪt",
-      "ukrainian": "его/ее"
-  },
-  {
-      "english": "here",
-      "transcription": "hɪər",
-      "ukrainian": "здесь, сюда"
-  },
-  {
-      "english": "(on the) left",
-      "transcription": "lɛft",
-      "ukrainian": "слева, налево"
-  },
-  {
-      "english": "enough",
-      "transcription": "ɪˈnʌf",
-      "ukrainian": "достаточно, довольно"
-  },
-  {
-      "english": "a little",
-      "transcription": "ə ˈlɪtl",
-      "ukrainian": "немного"
-  },
-  {
-      "english": "bad",
-      "transcription": "bæd",
-      "ukrainian": "плохой/ая"
-  },
-  {
-      "english": "only",
-      "transcription": "ˈoʊnli",
-      "ukrainian": "только, всего"
-  },
-  {
-      "english": "pounds",
-      "transcription": "paʊndz",
-      "ukrainian": "фунты стерлингов"
-  },
-  {
-      "english": "credit cards",
-      "transcription": "ˈkrɛdɪt kɑrdz",
-      "ukrainian": "кредитные карточки"
-  },
-  {
-      "english": "breakfast",
-      "transcription": "ˈbrɛkfəst",
-      "ukrainian": "завтрак"
-  },
-  {
-      "english": "there is",
-      "transcription": "ðɛr ɪz",
-      "ukrainian": "есть, имеется"
-  },
-  {
-      "english": "English breakfast",
-      "transcription": "ˈɪŋɡlɪʃ ˈbrɛkfəst",
-      "ukrainian": "традиционный английский завтрак"
-  },
-  {
-      "english": "from... to, until",
-      "transcription": "frʌm... tuː, ənˈtɪl",
-      "ukrainian": "от, с ... до"
-  },
-  {
-      "english": "half",
-      "transcription": "hæf",
-      "ukrainian": "половина"
-  },
-  {
-      "english": "half past nine",
-      "transcription": "hæf pæst naɪn",
-      "ukrainian": "половина десятого"
-  },
-  {
-      "english": "great, excellent",
-      "transcription": "ɡreɪt, ˈɛksələnt",
-      "ukrainian": "великолепно, отлично"
-  },
-  {
-      "english": "must, (to) have to",
-      "transcription": "mʌst, həv tuː",
-      "ukrainian": "быть должным"
-  },
-  {
-      "english": "(to) go shopping",
-      "transcription": "ɡoʊ ˈʃɑpɪŋ",
-      "ukrainian": "идти за покупками"
-  },
-  {
-      "english": "today",
-      "transcription": "təˈdeɪ",
-      "ukrainian": "сегодня"
-  },
-  {
-      "english": "we’ll go (we shall/will go)",
-      "transcription": "wiːl ɡoʊ",
-      "ukrainian": "мы поедем / пойдем"
-  },
-  {
-      "english": "by bus",
-      "transcription": "baɪ bʌs",
-      "ukrainian": "на автобусе"
-  },
-  {
-      "english": "shopping centre",
-      "transcription": "ˈʃɑpɪŋ ˈsɛntər",
-      "ukrainian": "торговый центр"
-  },
-  {
-      "english": "weather",
-      "transcription": "ˈwɛðər",
-      "ukrainian": "погода"
-  },
-  {
-      "english": "the weather is bad",
-      "transcription": "ðə ˈwɛðər ɪz bæd",
-      "ukrainian": "погода плохая"
-  },
-  {
-      "english": "on TV/television",
-      "transcription": "ɑn ˌtɛləˈvɪʒən",
-      "ukrainian": "по телевизору"
-  },
-  {
-      "english": "I am sorry",
-      "transcription": "aɪ æm ˈsɑri",
-      "ukrainian": "мне жаль, к сожалению"
-  },
-  {
-      "english": "first",
-      "transcription": "fɜrst",
-      "ukrainian": "сначала"
-  },
-  {
-      "english": "cash dispenser",
-      "transcription": "kæʃ dɪˈspɛnsər",
-      "ukrainian": "банкомат, пункт обмена валюты"
-  },
-  {
-      "english": "post office",
-      "transcription": "poʊst ˈɔfɪs",
-      "ukrainian": "почта"
-  },
-  {
-      "english": "(to) buy",
-      "transcription": "baɪ",
-      "ukrainian": "покупать, купить"
-  },
-  {
-      "english": "stamps",
-      "transcription": "stæmps",
-      "ukrainian": "марки (почтовые)"
-  },
-  {
-      "english": "afterwards",
-      "transcription": "ˈæftərwərdz",
-      "ukrainian": "затем, потом"
-  },
-  {
-      "english": "chemist’s",
-      "transcription": "ˈkɛmɪsts",
-      "ukrainian": "аптека"
-  },
-  {
-      "english": "dry cleaner’s",
-      "transcription": "draɪ ˈkliːnərz",
-      "ukrainian": "химчистка"
-  },
-  {
-      "english": "so",
-      "transcription": "soʊ",
-      "ukrainian": "итак, значит"
-  },
-  {
-      "english": "football",
-      "transcription": "ˈfʊtbɔl",
-      "ukrainian": "футбол"
-  },
-  {
-      "english": "all",
-      "transcription": "ɔl",
-      "ukrainian": "всё, все"
-  },
-  {
-      "english": "the department store",
-      "transcription": "ðə dɪˈpɑrtmənt stɔr",
-      "ukrainian": "универмаг"
-  },
-  {
-      "english": "new",
-      "transcription": "nuː",
-      "ukrainian": "новый"
-  },
-  {
-      "english": "suitcase",
-      "transcription": "ˈsuːtkeɪs",
-      "ukrainian": "чемодан"
-  },
-  {
-      "english": "supermarket",
-      "transcription": "ˈsuːpərˌmɑrkɪt",
-      "ukrainian": "супермаркет"
-  },
-  {
-      "english": "hairdresser’s",
-      "transcription": "ˈhɛrˌdrɛsərz",
-      "ukrainian": "парикмахерская"
-  },
-  {
-      "english": "I would like",
-      "transcription": "aɪ wʊd laɪk",
-      "ukrainian": "я хотел/а бы"
-  },
-  {
-      "english": "some",
-      "transcription": "sʌm",
-      "ukrainian": "какой-нибудь"
-  },
-  {
-      "english": "shoes",
-      "transcription": "ʃuːz",
-      "ukrainian": "туфли"
-  },
-  {
-      "english": "oh dear!",
-      "transcription": "oʊ dɪr",
-      "ukrainian": "Боже мой!"
-  },
-  {
-      "english": "until",
-      "transcription": "ʌnˈtɪl",
-      "ukrainian": "до"
-  },
-  {
-      "english": "when",
-      "transcription": "wɛn",
-      "ukrainian": "когда"
-  },
-  {
-      "english": "shop, shops",
-      "transcription": "ʃɑp, ʃɑps",
-      "ukrainian": "магазин, магазины"
-  },
-  {
-      "english": "open",
-      "transcription": "ˈoʊpən",
-      "ukrainian": "открыт/а"
-  },
-  {
-      "english": "(to) think, (to) believe",
-      "transcription": "θɪŋk, bɪˈliːv",
-      "ukrainian": "думать, полагать"
-  },
-  {
-      "english": "later",
-      "transcription": "ˈleɪtər",
-      "ukrainian": "позже"
-  },
-  {
-      "english": "I have bought, I bought",
-      "transcription": "aɪ hæv bɔt, aɪ bɔt",
-      "ukrainian": "я купил/а"
-  },
-  {
-      "english": "to eat",
-      "transcription": "[tu iːt]",
-      "ukrainian": "їсти"
-  },
-  {
-      "english": "to have dinner",
-      "transcription": "[tu hæv ˈdɪnər]",
-      "ukrainian": "обідати, вечеряти"
-  },
-  {
-      "english": "someone",
-      "transcription": "[ˈsʌmwʌn]",
-      "ukrainian": "хтось"
-  },
-  {
-      "english": "to phone",
-      "transcription": "[tu foʊn]",
-      "ukrainian": "дзвонити (по телефону)"
-  },
-  {
-      "english": "he said",
-      "transcription": "[hi sɛd]",
-      "ukrainian": "він сказав"
-  },
-  {
-      "english": "to say",
-      "transcription": "[tu seɪ]",
-      "ukrainian": "сказати, говорити"
-  },
-  {
-      "english": "because",
-      "transcription": "[bɪˈkɔz]",
-      "ukrainian": "тому що"
-  },
-  {
-      "english": "on",
-      "transcription": "[ɒn]",
-      "ukrainian": "на, в"
-  },
-  {
-      "english": "a piece of paper",
-      "transcription": "[ə piːs əv ˈpeɪpər]",
-      "ukrainian": "листок (шматочок) паперу"
-  },
-  {
-      "english": "by",
-      "transcription": "[baɪ]",
-      "ukrainian": "біля, поруч"
-  },
-  {
-      "english": "book",
-      "transcription": "[bʊk]",
-      "ukrainian": "книга"
-  },
-  {
-      "english": "telephone book",
-      "transcription": "[ˈtɛləfoʊn bʊk]",
-      "ukrainian": "телефонний довідник"
-  },
-  {
-      "english": "a client",
-      "transcription": "[ə ˈklaɪənt]",
-      "ukrainian": "клієнт"
-  },
-  {
-      "english": "well",
-      "transcription": "[wɛl]",
-      "ukrainian": "добре"
-  },
-  {
-      "english": "an appointment",
-      "transcription": "[ən əˈpɔɪntmənt]",
-      "ukrainian": "призначена зустріч"
-  },
-  {
-      "english": "Thursday",
-      "transcription": "[ˈθɜrzdeɪ]",
-      "ukrainian": "четвер"
-  },
-  {
-      "english": "how are you?",
-      "transcription": "[haʊ ɑr juː]",
-      "ukrainian": "як справи?"
-  },
-  {
-      "english": "thank you",
-      "transcription": "[θæŋk juː]",
-      "ukrainian": "дякую"
-  },
-  {
-      "english": "of course",
-      "transcription": "[əv kɔrs]",
-      "ukrainian": "звісно"
-  },
-  {
-      "english": "next",
-      "transcription": "[nɛkst]",
-      "ukrainian": "наступний"
-  },
-  {
-      "english": "wonderful",
-      "transcription": "[ˈwʌndərfəl]",
-      "ukrainian": "чудовий"
-  },
-  {
-      "english": "a few days",
-      "transcription": "[ə fjuː deɪz]",
-      "ukrainian": "кілька днів"
-  },
-  {
-      "english": "I see!",
-      "transcription": "[aɪ siː]",
-      "ukrainian": "я зрозумів!"
-  },
-  {
-      "english": "exit",
-      "transcription": "[ˈɛɡzɪt]",
-      "ukrainian": "вихід"
-  },
-  {
-      "english": "door",
-      "transcription": "[dɔr]",
-      "ukrainian": "двері"
-  },
-  {
-      "english": "tonight",
-      "transcription": "[təˈnaɪt]",
-      "ukrainian": "сьогодні ввечері"
-  },
-  {
-      "english": "thank you very much",
-      "transcription": "[θæŋk juː ˈvɛri mʌtʃ]",
-      "ukrainian": "велике дякую"
-  },
-  {
-      "english": "behind",
-      "transcription": "[bɪˈhaɪnd]",
-      "ukrainian": "позаду"
-  },
-  {
-      "english": "church",
-      "transcription": "[ʧɜrʧ]",
-      "ukrainian": "церква"
-  },
-  {
-      "english": "a dog",
-      "transcription": "[ə dɔɡ]",
-      "ukrainian": "собака"
-  },
-  {
-      "english": "sick",
-      "transcription": "[sɪk]",
-      "ukrainian": "хворий"
-  },
-  {
-      "english": "fish",
-      "transcription": "[fɪʃ]",
-      "ukrainian": "риба"
-  },
-  {
-      "english": "salmon",
-      "transcription": "[ˈsæmən]",
-      "ukrainian": "лосось"
-  },
-  {
-      "english": "dessert",
-      "transcription": "[dɪˈzɜrt]",
-      "ukrainian": "десерт"
-  },
-  {
-      "english": "ice-cream",
-      "transcription": "[aɪs kriːm]",
-      "ukrainian": "морожене"
-  },
-  {
-      "english": "soup",
-      "transcription": "[suːp]",
-      "ukrainian": "суп"
-  },
-  {
-      "english": "steak",
-      "transcription": "[steɪk]",
-      "ukrainian": "біфштекс"
-  },
-  {
-      "english": "chicken",
-      "transcription": "[ˈʧɪkɪn]",
-      "ukrainian": "курка"
-  },
-  {
-      "english": "glass",
-      "transcription": "[ɡlæs]",
-      "ukrainian": "склянка"
-  },
-  {
-      "english": "water",
-      "transcription": "[ˈwɔtər]",
-      "ukrainian": "вода"
-  },
-  {
-      "english": "finished",
-      "transcription": "[ˈfɪnɪʃt]",
-      "ukrainian": "закінчено"
-  },
-  {"english": "on the way", "ukrainian": "в дорозі", "transcription": "ɒn ðə weɪ"},
-  {"english": "railway station", "ukrainian": "залізнична станція", "transcription": "ˈreɪlweɪ ˈsteɪʃən"},
-  {"english": "ticket", "ukrainian": "квиток", "transcription": "ˈtɪkɪt"},
-  {"english": "one way ticket", "ukrainian": "квиток в один кінець", "transcription": "wʌn weɪ ˈtɪkɪt"},
-  {"english": "return ticket", "ukrainian": "квиток в обидва кінці", "transcription": "rɪˈtɜːn ˈtɪkɪt"},
-  {"english": "speak", "ukrainian": "говорити", "transcription": "spiːk"},
-  {"english": "cheaper", "ukrainian": "дешевший", "transcription": "ˈʧiːpər"},
-  {"english": "train", "ukrainian": "поїзд", "transcription": "treɪn"},
-  {"english": "platform", "ukrainian": "платформа, шлях", "transcription": "ˈplætfɔːm"},
-  {"english": "quickly", "ukrainian": "швидко", "transcription": "ˈkwɪkli"},
-  {"english": "non-smoking", "ukrainian": "некурячий", "transcription": "nɒn-ˈsməʊkɪŋ"},
-  {"english": "smoke", "ukrainian": "курити", "transcription": "sməʊk"},
-  {"english": "stop", "ukrainian": "зупинка", "transcription": "stɒp"},
-  {"english": "wait", "ukrainian": "чекати", "transcription": "weɪt"},
-  {"english": "letter", "ukrainian": "лист", "transcription": "ˈlɛtər"},
-  {"english": "letter box", "ukrainian": "поштова скринька", "transcription": "ˈlɛtər bɒks"},
-  {"english": "take photos", "ukrainian": "робити фото", "transcription": "teɪk ˈfoʊtəʊz"},
-  {"english": "sun", "ukrainian": "сонце", "transcription": "sʌn"},
-  {"english": "both", "ukrainian": "обидва", "transcription": "bəʊθ"},
-  {"english": "full", "ukrainian": "повний", "transcription": "fʊl"},
-  {"english": "take", "ukrainian": "брати", "transcription": "teɪk"},
-  {"english": "other", "ukrainian": "інший", "transcription": "ˈʌðər"},
-  {"english": "car", "ukrainian": "автомобіль", "transcription": "kɑːr"},
-  {"english": "hire car", "ukrainian": "автомобіль напрокат", "transcription": "ˈhaɪər kɑːr"},
-  {"english": "old", "ukrainian": "старий", "transcription": "oʊld"},
-  {"english": "hope", "ukrainian": "сподіватися", "transcription": "hoʊp"},
-  {"english": "problem", "ukrainian": "проблема", "transcription": "ˈprɒbləm"},
-  {"english": "first", "ukrainian": "перший", "transcription": "fɜːrst"},
-  {"english": "second", "ukrainian": "другий", "transcription": "ˈsɛkənd"},
-  {"english": "last", "ukrainian": "останній", "transcription": "læst"},
-  {"english": "map", "ukrainian": "карта", "transcription": "mæp"},
-  {"english": "gone", "ukrainian": "зник, пропав", "transcription": "ɡɒn"},
-  {"english": "petrol station", "ukrainian": "автозаправна станція", "transcription": "ˈpɛtrəl ˈsteɪʃən"},
-  {"english": "come on", "ukrainian": "пішли!, поїхали!", "transcription": "kʌm ɒn"},
-  {"english": "main road", "ukrainian": "головна дорога", "transcription": "meɪn roʊd"},
-  {"english": "traffic light", "ukrainian": "світлофор", "transcription": "ˈtræfɪk laɪt"},
-  {"english": "if", "ukrainian": "якщо", "transcription": "ɪf"},
-  {"english": "end", "ukrainian": "кінець", "transcription": "ɛnd"},
-  {"english": "motorway", "ukrainian": "автострада", "transcription": "ˈmoʊtərweɪ"},
-  {"english": "what is the matter?", "ukrainian": "у чому справа?", "transcription": "wɒt ɪz ðə ˈmætər"},
-  {"english": "petrol", "ukrainian": "бензин", "transcription": "ˈpɛtrəl"},
-  {"english": "litre", "ukrainian": "літр", "transcription": "ˈliːtər"},
-  {"english": "oil", "ukrainian": "олія, мастило", "transcription": "ɔɪl"},
-  {"english": "engine", "ukrainian": "двигун", "transcription": "ˈɛndʒɪn"},
-  {"english": "hot", "ukrainian": "гарячий", "transcription": "hɒt"},
-  {"english": "is kaput", "ukrainian": "зламаний", "transcription": "ɪz kəˈpʊt"},
-  {"english": "mobile phone", "ukrainian": "мобільний телефон", "transcription": "ˈmoʊbaɪl foʊn"},
-  {"english": "garage", "ukrainian": "автосервіс", "transcription": "ˈɡærɪdʒ"}
+  "english": "Apologize",
+  "transcription": "əˈpɑːləˌdʒaɪz",
+  "ukrainian": "Просити вибачення",
+  "ukrainian_transcription": "еполоджайз"
+},
+{
+  "english": "Celebrate",
+  "transcription": "ˈsɛləˌbreɪt",
+  "ukrainian": "Святкувати",
+  "ukrainian_transcription": "селебрейт"
+},
+{
+  "english": "Mend",
+  "transcription": "mɛnd",
+  "ukrainian": "Лагодити, латати",
+  "ukrainian_transcription": "менд"
+},
+{
+  "english": "Invent",
+  "transcription": "ɪnˈvɛnt",
+  "ukrainian": "Вигадувати, винаходити",
+  "ukrainian_transcription": "інвент"
+},
+{
+  "english": "Guide",
+  "transcription": "ɡaɪd",
+  "ukrainian": "Направляти, вести",
+  "ukrainian_transcription": "гайд"
+},
+{
+  "english": "Remain",
+  "transcription": "rɪˈmeɪn",
+  "ukrainian": "Залишатися",
+  "ukrainian_transcription": "рімейн"
+},
+{
+  "english": "Breathe",
+  "transcription": "briːð",
+  "ukrainian": "Дихати",
+  "ukrainian_transcription": "бріθ"
+},
+{
+  "english": "Charge",
+  "transcription": "ʧɑːrdʒ",
+  "ukrainian": "Заряджати",
+  "ukrainian_transcription": "чардж"
+},
+{
+  "english": "Excuse",
+  "transcription": "ɪkˈskjuːz",
+  "ukrainian": "Вибачати(ся)",
+  "ukrainian_transcription": "ікскьюз"
+},
+{
+  "english": "Demure",
+  "transcription": "dɪˈmjʊr",
+  "ukrainian": "Скромний",
+  "ukrainian_transcription": "дем'юр"
+},
+{
+  "english": "Dedication",
+  "transcription": "ˌdɛdɪˈkeɪʃən",
+  "ukrainian": "Відданість",
+  "ukrainian_transcription": "дедікейшн"
+},
+{
+  "english": "Brood",
+  "transcription": "bruːd",
+  "ukrainian": "Виводок",
+  "ukrainian_transcription": "бруд"
+},
+{
+  "english": "Charity",
+  "transcription": "ˈʧærɪti",
+  "ukrainian": "Благодійність",
+  "ukrainian_transcription": "черіті"
+},
+{
+  "english": "Employee",
+  "transcription": "ɛmˈplɔɪiː",
+  "ukrainian": "Працівник",
+  "ukrainian_transcription": "емплоїі"
+},
+{
+  "english": "Favour",
+  "transcription": "ˈfeɪvər",
+  "ukrainian": "Послуга",
+  "ukrainian_transcription": "фейвор"
+},
+{
+  "english": "Questionnaire",
+  "transcription": "ˌkwɛstʃəˈnɛr",
+  "ukrainian": "Анкета",
+  "ukrainian_transcription": "квестіонер"
+},
+{
+  "english": "Sunshine",
+  "transcription": "ˈsʌnˌʃaɪn",
+  "ukrainian": "Сонячне світло",
+  "ukrainian_transcription": "саншайн"
+},
+{
+  "english": "Meadow",
+  "transcription": "ˈmɛdoʊ",
+  "ukrainian": "Луг",
+  "ukrainian_transcription": "медоу"
+},
+{
+  "english": "Society",
+  "transcription": "səˈsaɪəti",
+  "ukrainian": "Суспільство",
+  "ukrainian_transcription": "сесайеті"
+},
+{
+  "english": "Ameliorate",
+  "transcription": "əˈmiːliəˌreɪt",
+  "ukrainian": "Покращити",
+  "ukrainian_transcription": "еміліорейт"
+},
+{
+  "english": "Denouement",
+  "transcription": "deɪˈnuːmɒn",
+  "ukrainian": "Розвʼязка",
+  "ukrainian_transcription": "дейнумон"
+},
+{
+  "english": "Motivation",
+  "transcription": "ˌmoʊtɪˈveɪʃən",
+  "ukrainian": "Мотивація, ентузіазм",
+  "ukrainian_transcription": "мотивейшн"
+},
+{
+  "english": "Adversity",
+  "transcription": "ədˈvɜːrsəti",
+  "ukrainian": "Негаразди",
+  "ukrainian_transcription": "едверсіті"
+},
+{
+  "english": "Understanding",
+  "transcription": "ˌʌndərˈstændɪŋ",
+  "ukrainian": "Розуміння, співчуття",
+  "ukrainian_transcription": "андерстендінг"
+},
+{
+  "english": "Apathy",
+  "transcription": "ˈæpəθi",
+  "ukrainian": "Апатія, байдужість",
+  "ukrainian_transcription": "апесі"
+},
+{
+  "english": "Influence",
+  "transcription": "ˈɪnfluəns",
+  "ukrainian": "Вплив",
+  "ukrainian_transcription": "інфлуенс"
+},
+{
+  "english": "Consequence",
+  "transcription": "ˈkɒnsɪkwəns",
+  "ukrainian": "Наслідок",
+  "ukrainian_transcription": "консіквенс"
+},
+{
+  "english": "Claim",
+  "transcription": "kleɪm",
+  "ukrainian": "Позов",
+  "ukrainian_transcription": "клейм"
+},
+{
+  "english": "Guts",
+  "transcription": "ɡʌts",
+  "ukrainian": "Мужність, витримка",
+  "ukrainian_transcription": "гатс"
+},
+{
+  "english": "Failure",
+  "transcription": "ˈfeɪljər",
+  "ukrainian": "Невдача",
+  "ukrainian_transcription": "фейлір"
+},
+{
+  "english": "Hell",
+  "transcription": "hɛl",
+  "ukrainian": "Пекло",
+  "ukrainian_transcription": "хел"
+},
+{
+  "english": "Freedom",
+  "transcription": "ˈfriːdəm",
+  "ukrainian": "Свобода",
+  "ukrainian_transcription": "фрідом"
+},
+{
+  "english": "Responsibility",
+  "transcription": "rɪˌspɒnsəˈbɪləti",
+  "ukrainian": "Відповідальність",
+  "ukrainian_transcription": "ріспонсібіліті"
+},
+{
+  "english": "Rehearsal",
+  "transcription": "rɪˈhɜːrsl",
+  "ukrainian": "Репетиція",
+  "ukrainian_transcription": "ріхерсл"
+},
+{
+  "english": "Relinquish",
+  "transcription": "rɪˈlɪŋkwɪʃ",
+  "ukrainian": "Здатися, відмовлятися",
+  "ukrainian_transcription": "рілінквіш"
+},
+{
+  "english": "Reside",
+  "transcription": "rɪˈzaɪd",
+  "ukrainian": "Проживати, мешкати",
+  "ukrainian_transcription": "різа́йд"
+},
+{
+  "english": "Simulate",
+  "transcription": "ˈsɪmjʊˌleɪt",
+  "ukrainian": "Моделювати, імітувати",
+  "ukrainian_transcription": "сім'юлейт"
+},
+{
+  "english": "Acquire",
+  "transcription": "əˈkwaɪər",
+  "ukrainian": "Отримувати",
+  "ukrainian_transcription": "еква́єр"
+},
+{
+  "english": "Alleviate",
+  "transcription": "əˈliːvieɪt",
+  "ukrainian": "Полегшити",
+  "ukrainian_transcription": "елівіейт"
+},
+{
+  "english": "Assess",
+  "transcription": "əˈsɛs",
+  "ukrainian": "Оцінювати, аналізувати",
+  "ukrainian_transcription": "есес"
+},
+{
+  "english": "Discern",
+  "transcription": "dɪˈsɜrn",
+  "ukrainian": "Розрізняти",
+  "ukrainian_transcription": "дісерн"
+},
+{
+  "english": "Endure",
+  "transcription": "ɪnˈdjʊr",
+  "ukrainian": "Витримувати, терпіти",
+  "ukrainian_transcription": "інд'юр"
+},
+{
+  "english": "Hesitate",
+  "transcription": "ˈhɛzɪteɪt",
+  "ukrainian": "Сумніватися, вагатися",
+  "ukrainian_transcription": "хезітейт"
+},
+{
+  "english": "Inhibit",
+  "transcription": "ɪnˈhɪbɪt",
+  "ukrainian": "Заважати, стримувати",
+  "ukrainian_transcription": "інхібіт"
+},
+{
+  "english": "Inquire",
+  "transcription": "ɪnˈkwaɪər",
+  "ukrainian": "Запитувати, цікавитися",
+  "ukrainian_transcription": "інкваєр"
+},
+{
+  "english": "Justify",
+  "transcription": "ˈdʒʌstɪˌfaɪ",
+  "ukrainian": "Виправдовувати, обґрунтовувати",
+  "ukrainian_transcription": "джастіфай"
+},
+{
+  "english": "Maintain",
+  "transcription": "meɪnˈteɪn",
+  "ukrainian": "Підтримувати, зберігати",
+  "ukrainian_transcription": "мейнтейн"
+},
+{
+  "english": "Inaccurate",
+  "transcription": "ɪnˈækjərət",
+  "ukrainian": "Неточний",
+  "ukrainian_transcription": "ін'ек'юрет"
+},
+{
+  "english": "Intricate",
+  "transcription": "ˈɪntrɪkət",
+  "ukrainian": "Хитромудрий, складний",
+  "ukrainian_transcription": "інтрікет"
+},
+{
+  "english": "Remarkable",
+  "transcription": "rɪˈmɑːrkəbl",
+  "ukrainian": "Дивовижний, чудовий",
+  "ukrainian_transcription": "рімаркабл"
+},
+{
+  "english": "Abundant",
+  "transcription": "əˈbʌndənt",
+  "ukrainian": "Рясний, щедрий",
+  "ukrainian_transcription": "ебандент"
+},
+{
+  "english": "Apprehensive",
+  "transcription": "ˌæprɪˈhɛnsɪv",
+  "ukrainian": "Занепокоєний",
+  "ukrainian_transcription": "епріхенсів"
+},
+{
+  "english": "Astonished",
+  "transcription": "əˈstɒnɪʃt",
+  "ukrainian": "Здивований",
+  "ukrainian_transcription": "естонішт"
+},
+{
+  "english": "Initial",
+  "transcription": "ɪˈnɪʃl",
+  "ukrainian": "Початковий",
+  "ukrainian_transcription": "інішл"
+},
+{
+  "english": "Mysterious",
+  "transcription": "mɪˈstɪriəs",
+  "ukrainian": "Таємничий",
+  "ukrainian_transcription": "містеріес"
+},
+{
+  "english": "Appease",
+  "transcription": "əˈpiːz",
+  "ukrainian": "Заспокоювати",
+  "ukrainian_transcription": "епіз"
+},
+{
+  "english": "Brazen",
+  "transcription": "ˈbreɪzən",
+  "ukrainian": "Безсоромний",
+  "ukrainian_transcription": "брейзен"
+},
+{
+  "english": "Candor",
+  "transcription": "ˈkændər",
+  "ukrainian": "Щирість",
+  "ukrainian_transcription": "кендер"
+},
+{
+  "english": "Chide",
+  "transcription": "ʧaɪd",
+  "ukrainian": "Дорікати",
+  "ukrainian_transcription": "чайд"
+},
+{
+  "english": "Circumspect",
+  "transcription": "ˈsɜːrkəmspekt",
+  "ukrainian": "Обачний",
+  "ukrainian_transcription": "серкемспект"
+},
+{
+  "english": "Clandestine",
+  "transcription": "ˈklændəˌstaɪn",
+  "ukrainian": "Таємний",
+  "ukrainian_transcription": "клендестайн"
+},
+{
+  "english": "Debacle",
+  "transcription": "deɪˈbɑːkəl",
+  "ukrainian": "Провал, фіаско",
+  "ukrainian_transcription": "дебакл"
+},
+{
+  "english": "Decry",
+  "transcription": "dɪˈkraɪ",
+  "ukrainian": "Засуджувати",
+  "ukrainian_transcription": "дікрай"
+},
+{
+  "english": "Deride",
+  "transcription": "dɪˈraɪd",
+  "ukrainian": "Висміювати",
+  "ukrainian_transcription": "дірайд"
+},
+{
+  "english": "Feral",
+  "transcription": "ˈfɛrəl",
+  "ukrainian": "Дикий, неприручений",
+  "ukrainian_transcription": "ферел"
+},
+{
+  "english": "Forsake",
+  "transcription": "fɔrˈseɪk",
+  "ukrainian": "Залишати, кидати",
+  "ukrainian_transcription": "форсейк"
+},
+{
+  "english": "Remedy",
+  "transcription": "ˈrɛmɪdi",
+  "ukrainian": "Засіб",
+  "ukrainian_transcription": "ремеді"
+},
+{
+  "english": "Impudent",
+  "transcription": "ˈɪmpjʊdənt",
+  "ukrainian": "Нахабний",
+  "ukrainian_transcription": "імп'юдент"
+},
+{
+  "english": "Indolent",
+  "transcription": "ˈɪndələnt",
+  "ukrainian": "Лінивий",
+  "ukrainian_transcription": "індолент"
+},
+{
+  "english": "Lithe",
+  "transcription": "laɪð",
+  "ukrainian": "Гнучкий",
+  "ukrainian_transcription": "лайз"
+},
+{
+  "english": "Reveal",
+  "transcription": "rɪˈviːl",
+  "ukrainian": "Розкрити",
+  "ukrainian_transcription": "рівіл"
+},
+{
+  "english": "Nadir",
+  "transcription": "ˈneɪdɪr",
+  "ukrainian": "Найнижчий рівень",
+  "ukrainian_transcription": "нейдір"
+},
+{
+  "english": "Obtuse",
+  "transcription": "əbˈtuːs",
+  "ukrainian": "Тупий",
+  "ukrainian_transcription": "обтус"
+},
+{
+  "english": "Umbrage",
+  "transcription": "ˈʌmbrɪdʒ",
+  "ukrainian": "Образа, обурення",
+  "ukrainian_transcription": "амбрідж"
+},
+{
+  "english": "Wanton",
+  "transcription": "ˈwɑːntən",
+  "ukrainian": "Безпричинний",
+  "ukrainian_transcription": "вонтон"
+},
+{
+  "english": "Neglect",
+  "transcription": "nɪˈɡlɛkt",
+  "ukrainian": "Неуважність",
+  "ukrainian_transcription": "неглект"
+},
+{
+  "english": "Prerequisite",
+  "transcription": "priˈrɛkwəzɪt",
+  "ukrainian": "Обов’язкова умова, передумова",
+  "ukrainian_transcription": "пріреквізіт"
+},
+{
+  "english": "Veracity",
+  "transcription": "vəˈræsəti",
+  "ukrainian": "Правдивість",
+  "ukrainian_transcription": "верасіті"
+},
+{
+  "english": "Ubiquity",
+  "transcription": "juːˈbɪkwɪti",
+  "ukrainian": "Всюдисущість",
+  "ukrainian_transcription": "юбіквіті"
+},
+{
+  "english": "Appeal",
+  "transcription": "əˈpiːl",
+  "ukrainian": "Апеляція, оскарження",
+  "ukrainian_transcription": "епіл"
+},
+{
+  "english": "Knob",
+  "transcription": "nɑːb",
+  "ukrainian": "Ручка",
+  "ukrainian_transcription": "ноб"
+},
+{
+  "english": "Mentality",
+  "transcription": "mɛnˈtæləti",
+  "ukrainian": "Менталітет",
+  "ukrainian_transcription": "ментеліті"
+},
+{
+  "english": "Outcome",
+  "transcription": "ˈaʊtkʌm",
+  "ukrainian": "Результат",
+  "ukrainian_transcription": "ауткам"
+},
+{
+  "english": "Neglect",
+  "transcription": "nɪˈɡlɛkt",
+  "ukrainian": "Неуважність",
+  "ukrainian_transcription": "неглект"
+},
+{
+  "english": "Prerequisite",
+  "transcription": "priˈrɛkwəzɪt",
+  "ukrainian": "Обов’язкова умова, передумова",
+  "ukrainian_transcription": "пріреквізіт"
+},
+{
+  "english": "Veracity",
+  "transcription": "vəˈræsəti",
+  "ukrainian": "Правдивість",
+  "ukrainian_transcription": "верасіті"
+},
+{
+  "english": "Ubiquity",
+  "transcription": "juːˈbɪkwɪti",
+  "ukrainian": "Всюдисущість",
+  "ukrainian_transcription": "юбіквіті"
+},
+{
+  "english": "Appeal",
+  "transcription": "əˈpiːl",
+  "ukrainian": "Апеляція, оскарження",
+  "ukrainian_transcription": "епіл"
+},
+{
+  "english": "Knob",
+  "transcription": "nɑːb",
+  "ukrainian": "Ручка",
+  "ukrainian_transcription": "ноб"
+},
+{
+  "english": "Mentality",
+  "transcription": "mɛnˈtæləti",
+  "ukrainian": "Менталітет",
+  "ukrainian_transcription": "ментеліті"
+},
+{
+  "english": "Outcome",
+  "transcription": "ˈaʊtkʌm",
+  "ukrainian": "Результат",
+  "ukrainian_transcription": "ауткам"
+},
+{
+  "english": "Integrate",
+  "transcription": "ˈɪntəˌɡreɪt",
+  "ukrainian": "Інтегрувати, об’єднувати",
+  "ukrainian_transcription": "інтігрейт"
+},
+{
+  "english": "Comprehend",
+  "transcription": "ˌkɑːmprɪˈhɛnd",
+  "ukrainian": "Збагнути, осягнути",
+  "ukrainian_transcription": "компріхенд"
+},
+{
+  "english": "Acknowledge",
+  "transcription": "əkˈnɒlɪdʒ",
+  "ukrainian": "Підтвердити",
+  "ukrainian_transcription": "екнолідж"
+},
+{
+  "english": "Facilitate",
+  "transcription": "fəˈsɪlɪteɪt",
+  "ukrainian": "Сприяти, полегшувати",
+  "ukrainian_transcription": "фасілітейт"
+},
+{
+  "english": "Scrutinize",
+  "transcription": "ˈskruːtəˌnaɪz",
+  "ukrainian": "Ретельно вивчати, аналізувати",
+  "ukrainian_transcription": "скрутінайз"
+},
+{
+  "english": "Contradict",
+  "transcription": "ˌkɒntrəˈdɪkt",
+  "ukrainian": "Суперечити",
+  "ukrainian_transcription": "контрадікт"
+},
+{
+  "english": "Enhance",
+  "transcription": "ɪnˈhæns",
+  "ukrainian": "Покращувати, збільшувати",
+  "ukrainian_transcription": "інханс"
+},
+{
+  "english": "Substantiate",
+  "transcription": "səbˈstænʃiˌeɪt",
+  "ukrainian": "Підтверджувати, обґрунтовувати",
+  "ukrainian_transcription": "сабстеншіейт"
+},
+{
+  "english": "Dedicate",
+  "transcription": "ˈdɛdɪˌkeɪt",
+  "ukrainian": "Віддавати, присвячувати",
+  "ukrainian_transcription": "дедікейт"
+},
+{
+  "english": "Resonate",
+  "transcription": "ˈrɛzəˌneɪt",
+  "ukrainian": "Вібрувати, резонувати",
+  "ukrainian_transcription": "резонейт"
+},
+{
+  "english": "Well-versed",
+  "transcription": "ˌwɛlˈvɜrst",
+  "ukrainian": "Обізнаний",
+  "ukrainian_transcription": "вел-верст"
+},
+{
+  "english": "Inevitable",
+  "transcription": "ɪnˈɛvɪtəbəl",
+  "ukrainian": "Неминучий",
+  "ukrainian_transcription": "іневітебл"
+},
+{
+  "english": "Articulate",
+  "transcription": "ɑrˈtɪkjʊlət",
+  "ukrainian": "Виразний, чіткий",
+  "ukrainian_transcription": "артікюлет"
+},
+{
+  "english": "Diligent",
+  "transcription": "ˈdɪlədʒənt",
+  "ukrainian": "Пильний, старанний",
+  "ukrainian_transcription": "діліджент"
+},
+{
+  "english": "Eloquent",
+  "transcription": "ˈɛləkwənt",
+  "ukrainian": "Красномовний",
+  "ukrainian_transcription": "елоквент"
+},
+{
+  "english": "Exemplary",
+  "transcription": "ɪɡˈzɛmpləri",
+  "ukrainian": "Зразковий",
+  "ukrainian_transcription": "ігземплері"
+},
+{
+  "english": "Proficient",
+  "transcription": "prəˈfɪʃənt",
+  "ukrainian": "Високопрофесійний, досвідчений",
+  "ukrainian_transcription": "профішент"
+},
+{
+  "english": "Ubiquitous",
+  "transcription": "juːˈbɪkwɪtəs",
+  "ukrainian": "Всюдисущий",
+  "ukrainian_transcription": "юбіквітес"
+},
+{
+  "english": "Robust",
+  "transcription": "roʊˈbʌst",
+  "ukrainian": "Міцний",
+  "ukrainian_transcription": "робаст"
+},
+{
+  "english": "Authentic",
+  "transcription": "ɔˈθɛntɪk",
+  "ukrainian": "Аутентичний",
+  "ukrainian_transcription": "осентік"
+},
+{
+  "english": "Convoluted",
+  "transcription": "ˈkɒnvəˌluːtɪd",
+  "ukrainian": "Заплутаний",
+  "ukrainian_transcription": "конволутед"
+},
+{
+  "english": "Ineffable",
+  "transcription": "ɪnˈɛfəbəl",
+  "ukrainian": "Невимовний",
+  "ukrainian_transcription": "інефебл"
+}
 ]

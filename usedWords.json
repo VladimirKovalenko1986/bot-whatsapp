@@ -2020,5 +2020,683 @@
     "transcription": "hɛlθ",
     "ukrainian": "Здоров’я",
     "ukrainian_transcription": "хелс"
+  },
+  {
+    "english": "Inevitable",
+    "transcription": "ɪnˈɛvɪtəbəl",
+    "ukrainian": "Неминучий",
+    "ukrainian_transcription": "іневітебл"
+  },
+  {
+    "english": "Brazen",
+    "transcription": "ˈbreɪzən",
+    "ukrainian": "Безсоромний",
+    "ukrainian_transcription": "брейзен"
+  },
+  {
+    "english": "Assess",
+    "transcription": "əˈsɛs",
+    "ukrainian": "Оцінювати, аналізувати",
+    "ukrainian_transcription": "есес"
+  },
+  {
+    "english": "Ameliorate",
+    "transcription": "əˈmiːliəˌreɪt",
+    "ukrainian": "Покращити",
+    "ukrainian_transcription": "еміліорейт"
+  },
+  {
+    "english": "Clandestine",
+    "transcription": "ˈklændəˌstaɪn",
+    "ukrainian": "Таємний",
+    "ukrainian_transcription": "клендестайн"
+  },
+  {
+    "english": "Forsake",
+    "transcription": "fɔrˈseɪk",
+    "ukrainian": "Залишати, кидати",
+    "ukrainian_transcription": "форсейк"
+  },
+  {
+    "english": "Claim",
+    "transcription": "kleɪm",
+    "ukrainian": "Позов",
+    "ukrainian_transcription": "клейм"
+  },
+  {
+    "english": "Acquire",
+    "transcription": "əˈkwaɪər",
+    "ukrainian": "Отримувати",
+    "ukrainian_transcription": "еква́єр"
+  },
+  {
+    "english": "Debacle",
+    "transcription": "deɪˈbɑːkəl",
+    "ukrainian": "Провал, фіаско",
+    "ukrainian_transcription": "дебакл"
+  },
+  {
+    "english": "Understanding",
+    "transcription": "ˌʌndərˈstændɪŋ",
+    "ukrainian": "Розуміння, співчуття",
+    "ukrainian_transcription": "андерстендінг"
+  },
+  {
+    "english": "Motivation",
+    "transcription": "ˌmoʊtɪˈveɪʃən",
+    "ukrainian": "Мотивація, ентузіазм",
+    "ukrainian_transcription": "мотивейшн"
+  },
+  {
+    "english": "Employee",
+    "transcription": "ɛmˈplɔɪiː",
+    "ukrainian": "Працівник",
+    "ukrainian_transcription": "емплоїі"
+  },
+  {
+    "english": "Charity",
+    "transcription": "ˈʧærɪti",
+    "ukrainian": "Благодійність",
+    "ukrainian_transcription": "черіті"
+  },
+  {
+    "english": "Rehearsal",
+    "transcription": "rɪˈhɜːrsl",
+    "ukrainian": "Репетиція",
+    "ukrainian_transcription": "ріхерсл"
+  },
+  {
+    "english": "Knob",
+    "transcription": "nɑːb",
+    "ukrainian": "Ручка",
+    "ukrainian_transcription": "ноб"
+  },
+  {
+    "english": "Impudent",
+    "transcription": "ˈɪmpjʊdənt",
+    "ukrainian": "Нахабний",
+    "ukrainian_transcription": "імп'юдент"
+  },
+  {
+    "english": "Knob",
+    "transcription": "nɑːb",
+    "ukrainian": "Ручка",
+    "ukrainian_transcription": "ноб"
+  },
+  {
+    "english": "Diligent",
+    "transcription": "ˈdɪlədʒənt",
+    "ukrainian": "Пильний, старанний",
+    "ukrainian_transcription": "діліджент"
+  },
+  {
+    "english": "Neglect",
+    "transcription": "nɪˈɡlɛkt",
+    "ukrainian": "Неуважність",
+    "ukrainian_transcription": "неглект"
+  },
+  {
+    "english": "Veracity",
+    "transcription": "vəˈræsəti",
+    "ukrainian": "Правдивість",
+    "ukrainian_transcription": "верасіті"
+  },
+  {
+    "english": "Reside",
+    "transcription": "rɪˈzaɪd",
+    "ukrainian": "Проживати, мешкати",
+    "ukrainian_transcription": "різа́йд"
+  },
+  {
+    "english": "Outcome",
+    "transcription": "ˈaʊtkʌm",
+    "ukrainian": "Результат",
+    "ukrainian_transcription": "ауткам"
+  },
+  {
+    "english": "Veracity",
+    "transcription": "vəˈræsəti",
+    "ukrainian": "Правдивість",
+    "ukrainian_transcription": "верасіті"
+  },
+  {
+    "english": "Apathy",
+    "transcription": "ˈæpəθi",
+    "ukrainian": "Апатія, байдужість",
+    "ukrainian_transcription": "апесі"
+  },
+  {
+    "english": "Appease",
+    "transcription": "əˈpiːz",
+    "ukrainian": "Заспокоювати",
+    "ukrainian_transcription": "епіз"
+  },
+  {
+    "english": "Guts",
+    "transcription": "ɡʌts",
+    "ukrainian": "Мужність, витримка",
+    "ukrainian_transcription": "гатс"
+  },
+  {
+    "english": "Hesitate",
+    "transcription": "ˈhɛzɪteɪt",
+    "ukrainian": "Сумніватися, вагатися",
+    "ukrainian_transcription": "хезітейт"
+  },
+  {
+    "english": "Proficient",
+    "transcription": "prəˈfɪʃənt",
+    "ukrainian": "Високопрофесійний, досвідчений",
+    "ukrainian_transcription": "профішент"
+  },
+  {
+    "english": "Resonate",
+    "transcription": "ˈrɛzəˌneɪt",
+    "ukrainian": "Вібрувати, резонувати",
+    "ukrainian_transcription": "резонейт"
+  },
+  {
+    "english": "Relinquish",
+    "transcription": "rɪˈlɪŋkwɪʃ",
+    "ukrainian": "Здатися, відмовлятися",
+    "ukrainian_transcription": "рілінквіш"
+  },
+  {
+    "english": "Reveal",
+    "transcription": "rɪˈviːl",
+    "ukrainian": "Розкрити",
+    "ukrainian_transcription": "рівіл"
+  },
+  {
+    "english": "Decry",
+    "transcription": "dɪˈkraɪ",
+    "ukrainian": "Засуджувати",
+    "ukrainian_transcription": "дікрай"
+  },
+  {
+    "english": "Astonished",
+    "transcription": "əˈstɒnɪʃt",
+    "ukrainian": "Здивований",
+    "ukrainian_transcription": "естонішт"
+  },
+  {
+    "english": "Inhibit",
+    "transcription": "ɪnˈhɪbɪt",
+    "ukrainian": "Заважати, стримувати",
+    "ukrainian_transcription": "інхібіт"
+  },
+  {
+    "english": "Eloquent",
+    "transcription": "ˈɛləkwənt",
+    "ukrainian": "Красномовний",
+    "ukrainian_transcription": "елоквент"
+  },
+  {
+    "english": "Discern",
+    "transcription": "dɪˈsɜrn",
+    "ukrainian": "Розрізняти",
+    "ukrainian_transcription": "дісерн"
+  },
+  {
+    "english": "Apprehensive",
+    "transcription": "ˌæprɪˈhɛnsɪv",
+    "ukrainian": "Занепокоєний",
+    "ukrainian_transcription": "епріхенсів"
+  },
+  {
+    "english": "Intricate",
+    "transcription": "ˈɪntrɪkət",
+    "ukrainian": "Хитромудрий, складний",
+    "ukrainian_transcription": "інтрікет"
+  },
+  {
+    "english": "Comprehend",
+    "transcription": "ˌkɑːmprɪˈhɛnd",
+    "ukrainian": "Збагнути, осягнути",
+    "ukrainian_transcription": "компріхенд"
+  },
+  {
+    "english": "Initial",
+    "transcription": "ɪˈnɪʃl",
+    "ukrainian": "Початковий",
+    "ukrainian_transcription": "інішл"
+  },
+  {
+    "english": "Inaccurate",
+    "transcription": "ɪnˈækjərət",
+    "ukrainian": "Неточний",
+    "ukrainian_transcription": "ін'ек'юрет"
+  },
+  {
+    "english": "Brood",
+    "transcription": "bruːd",
+    "ukrainian": "Виводок",
+    "ukrainian_transcription": "бруд"
+  },
+  {
+    "english": "Influence",
+    "transcription": "ˈɪnfluəns",
+    "ukrainian": "Вплив",
+    "ukrainian_transcription": "інфлуенс"
+  },
+  {
+    "english": "Favour",
+    "transcription": "ˈfeɪvər",
+    "ukrainian": "Послуга",
+    "ukrainian_transcription": "фейвор"
+  },
+  {
+    "english": "Alleviate",
+    "transcription": "əˈliːvieɪt",
+    "ukrainian": "Полегшити",
+    "ukrainian_transcription": "елівіейт"
+  },
+  {
+    "english": "Outcome",
+    "transcription": "ˈaʊtkʌm",
+    "ukrainian": "Результат",
+    "ukrainian_transcription": "ауткам"
+  },
+  {
+    "english": "Ubiquitous",
+    "transcription": "juːˈbɪkwɪtəs",
+    "ukrainian": "Всюдисущий",
+    "ukrainian_transcription": "юбіквітес"
+  },
+  {
+    "english": "Inquire",
+    "transcription": "ɪnˈkwaɪər",
+    "ukrainian": "Запитувати, цікавитися",
+    "ukrainian_transcription": "інкваєр"
+  },
+  {
+    "english": "Guide",
+    "transcription": "ɡaɪd",
+    "ukrainian": "Направляти, вести",
+    "ukrainian_transcription": "гайд"
+  },
+  {
+    "english": "Adversity",
+    "transcription": "ədˈvɜːrsəti",
+    "ukrainian": "Негаразди",
+    "ukrainian_transcription": "едверсіті"
+  },
+  {
+    "english": "Simulate",
+    "transcription": "ˈsɪmjʊˌleɪt",
+    "ukrainian": "Моделювати, імітувати",
+    "ukrainian_transcription": "сім'юлейт"
+  },
+  {
+    "english": "Acknowledge",
+    "transcription": "əkˈnɒlɪdʒ",
+    "ukrainian": "Підтвердити",
+    "ukrainian_transcription": "екнолідж"
+  },
+  {
+    "english": "Ubiquity",
+    "transcription": "juːˈbɪkwɪti",
+    "ukrainian": "Всюдисущість",
+    "ukrainian_transcription": "юбіквіті"
+  },
+  {
+    "english": "Consequence",
+    "transcription": "ˈkɒnsɪkwəns",
+    "ukrainian": "Наслідок",
+    "ukrainian_transcription": "консіквенс"
+  },
+  {
+    "english": "Remedy",
+    "transcription": "ˈrɛmɪdi",
+    "ukrainian": "Засіб",
+    "ukrainian_transcription": "ремеді"
+  },
+  {
+    "english": "Deride",
+    "transcription": "dɪˈraɪd",
+    "ukrainian": "Висміювати",
+    "ukrainian_transcription": "дірайд"
+  },
+  {
+    "english": "Ineffable",
+    "transcription": "ɪnˈɛfəbəl",
+    "ukrainian": "Невимовний",
+    "ukrainian_transcription": "інефебл"
+  },
+  {
+    "english": "Mend",
+    "transcription": "mɛnd",
+    "ukrainian": "Лагодити, латати",
+    "ukrainian_transcription": "менд"
+  },
+  {
+    "english": "Lithe",
+    "transcription": "laɪð",
+    "ukrainian": "Гнучкий",
+    "ukrainian_transcription": "лайз"
+  },
+  {
+    "english": "Feral",
+    "transcription": "ˈfɛrəl",
+    "ukrainian": "Дикий, неприручений",
+    "ukrainian_transcription": "ферел"
+  },
+  {
+    "english": "Candor",
+    "transcription": "ˈkændər",
+    "ukrainian": "Щирість",
+    "ukrainian_transcription": "кендер"
+  },
+  {
+    "english": "Dedication",
+    "transcription": "ˌdɛdɪˈkeɪʃən",
+    "ukrainian": "Відданість",
+    "ukrainian_transcription": "дедікейшн"
+  },
+  {
+    "english": "Celebrate",
+    "transcription": "ˈsɛləˌbreɪt",
+    "ukrainian": "Святкувати",
+    "ukrainian_transcription": "селебрейт"
+  },
+  {
+    "english": "Remarkable",
+    "transcription": "rɪˈmɑːrkəbl",
+    "ukrainian": "Дивовижний, чудовий",
+    "ukrainian_transcription": "рімаркабл"
+  },
+  {
+    "english": "Excuse",
+    "transcription": "ɪkˈskjuːz",
+    "ukrainian": "Вибачати(ся)",
+    "ukrainian_transcription": "ікскьюз"
+  },
+  {
+    "english": "Mysterious",
+    "transcription": "mɪˈstɪriəs",
+    "ukrainian": "Таємничий",
+    "ukrainian_transcription": "містеріес"
+  },
+  {
+    "english": "Wanton",
+    "transcription": "ˈwɑːntən",
+    "ukrainian": "Безпричинний",
+    "ukrainian_transcription": "вонтон"
+  },
+  {
+    "english": "Endure",
+    "transcription": "ɪnˈdjʊr",
+    "ukrainian": "Витримувати, терпіти",
+    "ukrainian_transcription": "інд'юр"
+  },
+  {
+    "english": "Denouement",
+    "transcription": "deɪˈnuːmɒn",
+    "ukrainian": "Розвʼязка",
+    "ukrainian_transcription": "дейнумон"
+  },
+  {
+    "english": "Charge",
+    "transcription": "ʧɑːrdʒ",
+    "ukrainian": "Заряджати",
+    "ukrainian_transcription": "чардж"
+  },
+  {
+    "english": "Ubiquity",
+    "transcription": "juːˈbɪkwɪti",
+    "ukrainian": "Всюдисущість",
+    "ukrainian_transcription": "юбіквіті"
+  },
+  {
+    "english": "Society",
+    "transcription": "səˈsaɪəti",
+    "ukrainian": "Суспільство",
+    "ukrainian_transcription": "сесайеті"
+  },
+  {
+    "english": "Remain",
+    "transcription": "rɪˈmeɪn",
+    "ukrainian": "Залишатися",
+    "ukrainian_transcription": "рімейн"
+  },
+  {
+    "english": "Prerequisite",
+    "transcription": "priˈrɛkwəzɪt",
+    "ukrainian": "Обов’язкова умова, передумова",
+    "ukrainian_transcription": "пріреквізіт"
+  },
+  {
+    "english": "Robust",
+    "transcription": "roʊˈbʌst",
+    "ukrainian": "Міцний",
+    "ukrainian_transcription": "робаст"
+  },
+  {
+    "english": "Substantiate",
+    "transcription": "səbˈstænʃiˌeɪt",
+    "ukrainian": "Підтверджувати, обґрунтовувати",
+    "ukrainian_transcription": "сабстеншіейт"
+  },
+  {
+    "english": "Prerequisite",
+    "transcription": "priˈrɛkwəzɪt",
+    "ukrainian": "Обов’язкова умова, передумова",
+    "ukrainian_transcription": "пріреквізіт"
+  },
+  {
+    "english": "Facilitate",
+    "transcription": "fəˈsɪlɪteɪt",
+    "ukrainian": "Сприяти, полегшувати",
+    "ukrainian_transcription": "фасілітейт"
+  },
+  {
+    "english": "Enhance",
+    "transcription": "ɪnˈhæns",
+    "ukrainian": "Покращувати, збільшувати",
+    "ukrainian_transcription": "інханс"
+  },
+  {
+    "english": "Appeal",
+    "transcription": "əˈpiːl",
+    "ukrainian": "Апеляція, оскарження",
+    "ukrainian_transcription": "епіл"
+  },
+  {
+    "english": "Dedicate",
+    "transcription": "ˈdɛdɪˌkeɪt",
+    "ukrainian": "Віддавати, присвячувати",
+    "ukrainian_transcription": "дедікейт"
+  },
+  {
+    "english": "Indolent",
+    "transcription": "ˈɪndələnt",
+    "ukrainian": "Лінивий",
+    "ukrainian_transcription": "індолент"
+  },
+  {
+    "english": "Obtuse",
+    "transcription": "əbˈtuːs",
+    "ukrainian": "Тупий",
+    "ukrainian_transcription": "обтус"
+  },
+  {
+    "english": "Articulate",
+    "transcription": "ɑrˈtɪkjʊlət",
+    "ukrainian": "Виразний, чіткий",
+    "ukrainian_transcription": "артікюлет"
+  },
+  {
+    "english": "Mentality",
+    "transcription": "mɛnˈtæləti",
+    "ukrainian": "Менталітет",
+    "ukrainian_transcription": "ментеліті"
+  },
+  {
+    "english": "Freedom",
+    "transcription": "ˈfriːdəm",
+    "ukrainian": "Свобода",
+    "ukrainian_transcription": "фрідом"
+  },
+  {
+    "english": "Integrate",
+    "transcription": "ˈɪntəˌɡreɪt",
+    "ukrainian": "Інтегрувати, об’єднувати",
+    "ukrainian_transcription": "інтігрейт"
+  },
+  {
+    "english": "Umbrage",
+    "transcription": "ˈʌmbrɪdʒ",
+    "ukrainian": "Образа, обурення",
+    "ukrainian_transcription": "амбрідж"
+  },
+  {
+    "english": "Nadir",
+    "transcription": "ˈneɪdɪr",
+    "ukrainian": "Найнижчий рівень",
+    "ukrainian_transcription": "нейдір"
+  },
+  {
+    "english": "Maintain",
+    "transcription": "meɪnˈteɪn",
+    "ukrainian": "Підтримувати, зберігати",
+    "ukrainian_transcription": "мейнтейн"
+  },
+  {
+    "english": "Mentality",
+    "transcription": "mɛnˈtæləti",
+    "ukrainian": "Менталітет",
+    "ukrainian_transcription": "ментеліті"
+  },
+  {
+    "english": "Demure",
+    "transcription": "dɪˈmjʊr",
+    "ukrainian": "Скромний",
+    "ukrainian_transcription": "дем'юр"
+  },
+  {
+    "english": "Exemplary",
+    "transcription": "ɪɡˈzɛmpləri",
+    "ukrainian": "Зразковий",
+    "ukrainian_transcription": "ігземплері"
+  },
+  {
+    "english": "Scrutinize",
+    "transcription": "ˈskruːtəˌnaɪz",
+    "ukrainian": "Ретельно вивчати, аналізувати",
+    "ukrainian_transcription": "скрутінайз"
+  },
+  {
+    "english": "Breathe",
+    "transcription": "briːð",
+    "ukrainian": "Дихати",
+    "ukrainian_transcription": "бріθ"
+  },
+  {
+    "english": "Hell",
+    "transcription": "hɛl",
+    "ukrainian": "Пекло",
+    "ukrainian_transcription": "хел"
+  },
+  {
+    "english": "Justify",
+    "transcription": "ˈdʒʌstɪˌfaɪ",
+    "ukrainian": "Виправдовувати, обґрунтовувати",
+    "ukrainian_transcription": "джастіфай"
+  },
+  {
+    "english": "Chide",
+    "transcription": "ʧaɪd",
+    "ukrainian": "Дорікати",
+    "ukrainian_transcription": "чайд"
+  },
+  {
+    "english": "Appeal",
+    "transcription": "əˈpiːl",
+    "ukrainian": "Апеляція, оскарження",
+    "ukrainian_transcription": "епіл"
+  },
+  {
+    "english": "Contradict",
+    "transcription": "ˌkɒntrəˈdɪkt",
+    "ukrainian": "Суперечити",
+    "ukrainian_transcription": "контрадікт"
+  },
+  {
+    "english": "Responsibility",
+    "transcription": "rɪˌspɒnsəˈbɪləti",
+    "ukrainian": "Відповідальність",
+    "ukrainian_transcription": "ріспонсібіліті"
+  },
+  {
+    "english": "Circumspect",
+    "transcription": "ˈsɜːrkəmspekt",
+    "ukrainian": "Обачний",
+    "ukrainian_transcription": "серкемспект"
+  },
+  {
+    "english": "Neglect",
+    "transcription": "nɪˈɡlɛkt",
+    "ukrainian": "Неуважність",
+    "ukrainian_transcription": "неглект"
+  },
+  {
+    "english": "Questionnaire",
+    "transcription": "ˌkwɛstʃəˈnɛr",
+    "ukrainian": "Анкета",
+    "ukrainian_transcription": "квестіонер"
+  },
+  {
+    "english": "Failure",
+    "transcription": "ˈfeɪljər",
+    "ukrainian": "Невдача",
+    "ukrainian_transcription": "фейлір"
+  },
+  {
+    "english": "Convoluted",
+    "transcription": "ˈkɒnvəˌluːtɪd",
+    "ukrainian": "Заплутаний",
+    "ukrainian_transcription": "конволутед"
+  },
+  {
+    "english": "Abundant",
+    "transcription": "əˈbʌndənt",
+    "ukrainian": "Рясний, щедрий",
+    "ukrainian_transcription": "ебандент"
+  },
+  {
+    "english": "Authentic",
+    "transcription": "ɔˈθɛntɪk",
+    "ukrainian": "Аутентичний",
+    "ukrainian_transcription": "осентік"
+  },
+  {
+    "english": "Meadow",
+    "transcription": "ˈmɛdoʊ",
+    "ukrainian": "Луг",
+    "ukrainian_transcription": "медоу"
+  },
+  {
+    "english": "Well-versed",
+    "transcription": "ˌwɛlˈvɜrst",
+    "ukrainian": "Обізнаний",
+    "ukrainian_transcription": "вел-верст"
+  },
+  {
+    "english": "Apologize",
+    "transcription": "əˈpɑːləˌdʒaɪz",
+    "ukrainian": "Просити вибачення",
+    "ukrainian_transcription": "еполоджайз"
+  },
+  {
+    "english": "Invent",
+    "transcription": "ɪnˈvɛnt",
+    "ukrainian": "Вигадувати, винаходити",
+    "ukrainian_transcription": "інвент"
+  },
+  {
+    "english": "Sunshine",
+    "transcription": "ˈsʌnˌʃaɪn",
+    "ukrainian": "Сонячне світло",
+    "ukrainian_transcription": "саншайн"
   }
 ]
